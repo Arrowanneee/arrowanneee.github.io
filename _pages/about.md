@@ -17,42 +17,89 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Anqi Wang is pursuing her Ph.D. in the interdisciplinary area of HCI and Metaverse at the Hong Kong University of Science and Technology. Before she came to UST, she worked in the City Science Lab in the MIT media lab -Tongji University, graduated with first-place honors at Guangzhou Academy of Fine Arts, and received a Distinction MArch Degree from Bartlett School in University College London. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+With a background in architecture, art, and computer, her interest fields are environments with emerging media technology, including Augmented Reality, Blockchain, and HCI. Her work has been selected for the Chinese CHI, NTU Art Exhibition, Johan Verbeke International Exhibition, Design for China, Youth Design 100, and so on. She currently lives in Hong Kong and Guangzhou. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025!
+- *2024.07*: &nbsp;🎉🎉 *Towards AI-Architecture Liberty* was accepted to ACM Computing Surveys!
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**Pinning “Reflection” on the Agenda: Investigating Reflection in Human–LLM Co-Creation for Creative Coding**](#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Anqi Wang**, Zhizhuo Yin, Yulu Hu, Yuanyuan Mao, Lei Han, Xin Tong, Keqin Jiao, Pan Hui
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW '25), Bergen, Norway, October 2025  *(Date of acceptance: 19 June 2025)*
+- We demonstrate how Baumer’s reflection typology applies and adapts in the context of LLM-based creative coding; 
+- We conduct an empirical evidence showing how task-decomposed prompting fosters deeper, more strategic reflection; 
+- We propose design implications for rethinking reflective prompting beyond productivity scaffolding, but as a catalyst for creative reasoning and adaptive goal-setting.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Towards AI-Architecture Liberty: A Comprehensive Survey on Design and Generation of Virtual Architecture by Deep Learning**](https://dl.acm.org/doi/full/10.1145/3688569)
+
+**Anqi Wang**, Jiahua Dong, Lik-Hang Lee, Jiachuan Shen, Pan Hui
+
+ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)*
+
+</div>
+</div>
+
+# 🌟 Honors and Awards
+- *08-2023* Metaverse Digital Art Festival of the Greater Bay Area (Bronze)  
+- *12-2022* Videogame Competition (Non Architecture), Winner (1st Prize)  
+- *11-2022* Meta-City Competition (Non Architecture), Honorable Mention  
+- *11-2022* RIBA 100 Young Creator in Metaverse, Nomination  
+- *11-2022* Chinese CHI Art Gallery, Diamond Prize  
+- *11-2022* NTU Global Digital Art Prize, Shortlist Award  
+- *10-2022* DesignNOVA Awards, Shortlist  
+- *06-2022* MetaCity Innovator Competition, Silver  
+- *10-2021* CGarchitect 3Dawards, Nominee  
+- *11-2020* Asian Design Award, Bronze  
+- *06-2020* GAFA Honorary Graduation Design Award (Top 1%)  
+- *06-2020* GAFA Graduation Award for Excellence Creation (Top 5%)  
+- *10-2019* GAFA “Designing GAFA” Competition, Merit  
+- *11-2018* Golden Finger Awards, Merit  
+- *10-2018* Design for China, National Design Exhibition  
+- *05-2018* Grand Bay Student Joint Exhibition (HK, MO & Guangzhou)
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02 - now*, Hong Kong University of Technology and Science
+- *2020.09 - 2021.12*, University College London
+- *2016.09 - 2020.06*, Guangzhou Academy of Fine Arts  
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2023.12*, Outstanding Graduates Personal Sharing, Guangzhou Academy of Fine Arts Overseas Graduate Society
+- *2022.08*, *Hyper-Learning and Unlearning – Compression: Excursions on Media Ecologies*, KoozArch  
+  [Online Interview](https://www.koozarch.com/interviews/hyperlearning-and-unlearning)  
+- *2021.09*, *(De)centralizing Education: P2P Learning*, Round the Table, UCL  
+  Organised by AF Architecture, Bartlett B-Pro
+  
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [City Science Lab @ Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), China.
+
+# 🖼 Exhibitions
+- *11-2022*, NTU Global Digital Art Prize, Singapore  
+- *11-2022*, Chinese CHI Art Gallery, Guangzhou [(Online Version)](https://soul.taihuoniao.com/space/634f6d44b3c43958181bb546)  
+- *10-2022*, ACM Multimedia 2022 Exhibition, Lisbon, Portugal  
+- *09-2022*, eCAADe 2022, KU Leuven, Brussels  
+- *08-2022*, Messier 31 Contemporary Art Exhibition, Online  
+- *08-2022*, Electric Dreams, CMA Symposium and Exhibition [(Online)](https://electricdreams.ust.hk/#symposium)  
+- *10-2021–03-2022*, Expo 2020 Dubai, Chinese Culture Palace  
+- *10-2021*, The Bartlett B-Pro Show, London  
+- *11-2020*, CAFA National Graduate Exhibition  
+- *12-2020*, Zhuhai International Design Week  
+- *11-2019*, China Social Welfare Foundation Charity Exhibition  
+- *10-2018*, "Design for China", National Design Exhibition  
+- *05-2018*, Grand Bay Student Joint Exhibition (HK, MO & GZ)
