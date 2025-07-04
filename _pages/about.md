@@ -46,16 +46,16 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Towards AI-Architecture Liberty: A Comprehensive Survey on Design and Generation of Virtual Architecture by Deep Learning**](https://dl.acm.org/doi/full/10.1145/3688569)
+**Towards AI-Architecture Liberty: A Comprehensive Survey on Design and Generation of Virtual Architecture by Deep Learning**
 
 **Anqi Wang**, Jiahua Dong, Lik-Hang Lee, Jiachuan Shen, Pan Hui
 
-ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)*
+[PDF](https://dl.acm.org/doi/full/10.1145/3688569) | ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)* 
 
 </div>
 </div>
 
-- [PoEmotion: Generative Calligraphy Visualizing Emotion in Poems](#), Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang, **ISEA 2024**
+- PoEmotion: Generative Calligraphy Visualizing Emotion in Poems, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang | [ArXiv](https://arxiv.org/pdf/2504.13567) | **ISEA 2024** 
 
 - [Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction](#), **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui, **ICMI 2022**
 
