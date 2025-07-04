@@ -55,6 +55,24 @@ ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)*
 </div>
 </div>
 
+- [PoEmotion: Generative Calligraphy Visualizing Emotion in Poems](#), Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang, **ISEA 2024**
+
+- [Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction](#), **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui, **ICMI 2022**
+
+- [Envisioning A Hyper-Learning System in the Age of Metaverse](#), **Anqi Wang**, Ze Gao, Tristan Braud, Pan Hui, **SIGGRAPH VRCAI 2022**
+
+- [Interspaces Between Nature and the City](#), Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan, **Chinese CHI 2022**
+
+- [Meditation in Motion: Interactive Media Art Visualization Based on Ancient Tai Chi Chuan](#), Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **ACM Multimedia 2022**
+
+- [Digital Art in the Age of Metaverse and NFT](#), Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **Computer Art Congress 7 (CAC.7)**
+
+- [VR PreM+: An Immersive Pre-learning Branching Visualization System for Museum Tours](#), Ze Gao, Xiang Li, Changkun Liu, Xian Wang, **Anqi Wang**, Liang Yang, Yuyang Wang, Pan Hui, Tristan Braud, **Chinese CHI 2023**
+
+- [Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Tool](#), Ze Gao*, Anqi Wang*, Pan Hui, Tristan Braud, **SIGGRAPH VRCAI 2022** (*Co-first authors*)
+
+- [Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements](#), Jiahua Dong, Ruiqing Jiang, Anqi Wang, Yuankai Wang, **CAADRIA 2023**
+
 # 🌟 Honors and Awards
 - *08-2023* Metaverse Digital Art Festival of the Greater Bay Area (Bronze)  
 - *12-2022* Videogame Competition (Non Architecture), Winner (1st Prize)  
@@ -73,7 +91,6 @@ ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)*
 - *10-2018* Design for China, National Design Exhibition  
 - *05-2018* Grand Bay Student Joint Exhibition (HK, MO & Guangzhou)
 
-
 # 📖 Educations
 - *2022.02 - now*, Hong Kong University of Technology and Science
 - *2020.09 - 2021.12*, University College London
@@ -87,7 +104,7 @@ ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)*
   Organised by AF Architecture, Bartlett B-Pro
   
 # 💻 Internships
-- *2019.05 - 2020.02*, [City Science Lab @ Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), China.
+- *2021.10 - 2022.09*, [City Science Lab @ Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), China.
 
 # 🖼 Exhibitions
 - *11-2022*, NTU Global Digital Art Prize, Singapore  
