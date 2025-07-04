@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Anqi Wang is pursuing her Ph.D. in the interdisciplinary area of HCI and Metaverse at the Hong Kong University of Science and Technology. Before she came to UST, she worked in the City Science Lab in the MIT media lab -Tongji University, graduated with first-place honors at Guangzhou Academy of Fine Arts, and received a Distinction MArch Degree from Bartlett School in University College London. 
+Hi! I am currently pursuing a Ph.D. in the interdisciplinary area of Human-Computer Interaction (HCI) and the Metaverse at the Hong Kong University of Science and Technology. Before joining HKUST, I worked at the City Science Lab— a collaboration between the MIT Media Lab and Tongji University. I graduated with top honors from the School of Architecture and Applied Art at the Guangzhou Academy of Fine Arts and earned a Distinction in the MArch program at the Bartlett School, University College London.
 
-With a background in architecture, art, and computer, her interest fields are environments with emerging media technology, including Augmented Reality, Blockchain, and HCI. Her work has been selected for the Chinese CHI, NTU Art Exhibition, Johan Verbeke International Exhibition, Design for China, Youth Design 100, and so on. She currently lives in Hong Kong and Guangzhou. 
+With a background in HCI, design, architecture, I am particularly interested in technology-enhanced creativity and design, including LLM, AR/VR, and Web 3. My work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently split my time between Hong Kong and Guangzhou. 
 
 
 # 🔥 News
