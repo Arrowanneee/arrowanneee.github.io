@@ -23,7 +23,7 @@ With a background in HCI, design, architecture, I am particularly interested in 
 
 
 # 🔥 News
-- *2025.06*: &nbsp; As the **curatorial executive** of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - **Surreality (幻实之境)**. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
+- *2025.06*: &nbsp; As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *Surreality (幻实之境)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
 - *2024.07*: &nbsp;🎉🎉 *Towards AI-Architecture Liberty* was accepted to ACM Computing Surveys!
 - *2022.11*: I reported our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India.
@@ -71,7 +71,16 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 </div>
 
 
-- **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang \| [ArXiv](https://arxiv.org/pdf/2504.13567) \| **ISEA 2024** 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang \| 
+
+[ArXiv](https://arxiv.org/pdf/2504.13567) \| **ISEA 2024** 
+
+</div>
+</div>
+
 
 - **Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**, **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui,
   [PDF](https://dl.acm.org/doi/pdf/10.1145/3536221.3558176) \| [ArXiv](https://arxiv.org/pdf/2206.03737) \| **ICMI 2022**
