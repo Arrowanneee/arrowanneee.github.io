@@ -32,7 +32,7 @@ With a background in HCI, design, architecture, I am particularly interested in 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW25Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Pinning “Reflection” on the Agenda: Investigating Reflection in Human–LLM Co-Creation for Creative Coding**](#)
+**Pinning “Reflection” on the Agenda: Investigating Reflection in Human–LLM Co-Creation for Creative Coding**
 
 **Anqi Wang**, Zhizhuo Yin, Yulu Hu, Yuanyuan Mao, Lei Han, Xin Tong, Keqin Jiao, Pan Hui
 
@@ -55,23 +55,35 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 </div>
 </div>
 
-- PoEmotion: Generative Calligraphy Visualizing Emotion in Poems, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang | [ArXiv](https://arxiv.org/pdf/2504.13567) | **ISEA 2024** 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
 
-- [Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction](#), **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui, **ICMI 2022**
+[PDF](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5190055) | **Anqi Wang**, Lei Han, Jiahua Dong, Muzhi Zhou, David Yip, Yuyang Wang, Pan Hui
 
-- [Envisioning A Hyper-Learning System in the Age of Metaverse](#), **Anqi Wang**, Ze Gao, Tristan Braud, Pan Hui, **SIGGRAPH VRCAI 2022**
+</div>
+</div>
 
-- [Interspaces Between Nature and the City](#), Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan, **Chinese CHI 2022**
 
-- [Meditation in Motion: Interactive Media Art Visualization Based on Ancient Tai Chi Chuan](#), Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **ACM Multimedia 2022**
+- **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang | [ArXiv](https://arxiv.org/pdf/2504.13567) | **ISEA 2024** 
 
-- [Digital Art in the Age of Metaverse and NFT](#), Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **Computer Art Congress 7 (CAC.7)**
+- **Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**, **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui, **ICMI 2022**
 
-- [VR PreM+: An Immersive Pre-learning Branching Visualization System for Museum Tours](#), Ze Gao, Xiang Li, Changkun Liu, Xian Wang, **Anqi Wang**, Liang Yang, Yuyang Wang, Pan Hui, Tristan Braud, **Chinese CHI 2023**
+- **Envisioning A Hyper-Learning System in the Age of Metaverse**, **Anqi Wang**, Ze Gao, Tristan Braud, Pan Hui, **SIGGRAPH VRCAI 2022**
 
-- [Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Tool](#), Ze Gao*, Anqi Wang*, Pan Hui, Tristan Braud, **SIGGRAPH VRCAI 2022** (*Co-first authors*)
+- **Interspaces Between Nature and the City**, Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan, **Chinese CHI 2022**
 
-- [Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements](#), Jiahua Dong, Ruiqing Jiang, Anqi Wang, Yuankai Wang, **CAADRIA 2023**
+- **Meditation in Motion: Interactive Media Art Visualization Based on Ancient Tai Chi Chuan**, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **ACM Multimedia 2022**
+
+- **Digital Art in the Age of Metaverse and NFT**, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **Computer Art Congress 7 (CAC.7)**
+
+- **VR PreM+: An Immersive Pre-learning Branching Visualization System for Museum Tours**, Ze Gao, Xiang Li, Changkun Liu, Xian Wang, **Anqi Wang**, Liang Yang, Yuyang Wang, Pan Hui, Tristan Braud, **Chinese CHI 2023**
+
+- **Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Too**l, Ze Gao*, Anqi Wang*, Pan Hui, Tristan Braud, **SIGGRAPH VRCAI 2022** (*Co-first authors*)
+
+- **Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements**, Jiahua Dong, Ruiqing Jiang, Anqi Wang, Yuankai Wang, **CAADRIA 2023**
+
 
 # 🌟 Honors and Awards
 - *08-2023* Metaverse Digital Art Festival of the Greater Bay Area (Bronze)  
