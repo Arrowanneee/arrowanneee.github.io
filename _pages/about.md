@@ -17,17 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently pursuing a Ph.D. in the interdisciplinary area of Human-Computer Interaction (HCI) and the Metaverse at the Hong Kong University of Science and Technology. Before joining HKUST, I worked at the City Science Lab— a collaboration between the MIT Media Lab and Tongji University. I graduated with top honors from the School of Architecture and Applied Art at the Guangzhou Academy of Fine Arts and earned a Distinction in the MArch program at the Bartlett School, University College London.
+Hi! I am currently pursuing a Ph.D. in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of [Pan Hui](https://panhui.people.ust.hk/publications.html). Before joining HKUST, I worked at the [City Science Lab @shanghai](https://tjdi.tongji.edu.cn/about.do?ID=75&lang=_en)— a collaboration between the MIT Media Lab and Tongji University. I graduated with top honors from the School of Architecture and Applied Art at the Guangzhou Academy of Fine Arts and earned a Distinction in the MArch program at the Bartlett School, University College London. 
 
-With a background in HCI, design, architecture, I am particularly interested in technology-enhanced creativity and design, including LLM, AR/VR, and Web 3. My work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently split my time between Hong Kong and Guangzhou. 
+With a background in HCI, design, architecture, I am particularly interested in technology-enhanced creativity and design, including LLM, AR/VR, and Web 3. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently split my time between Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025!
+- *2025.06*: &nbsp; As the **curatorial executive** of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - **Surreality (幻实之境)**. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
+- *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
 - *2024.07*: &nbsp;🎉🎉 *Towards AI-Architecture Liberty* was accepted to ACM Computing Surveys!
+- *2022.11*: I reported our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India.
+- *2022.11*: &nbsp;🏅🏅 *Decentralized, not Dehumanized in the Metaverse* was selected as Blue Sky Track Winners (3rd Place) at ICMI 2022 sponsored by The Computing Community Consortium (CCC) - [CCC Blog](https://cccblog.org/2022/11/17/blue-sky-track-winners-at-icmi-2022/). The conference was held in Bengaluru (Bangalore), India on on November 7-11th. 
 
 
-# 📝 Publications 
+# 📑 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW25Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +53,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 
 **Anqi Wang**, Jiahua Dong, Lik-Hang Lee, Jiachuan Shen, Pan Hui
 
-[PDF](https://dl.acm.org/doi/full/10.1145/3688569) | ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)* 
+[PDF](https://dl.acm.org/doi/full/10.1145/3688569) \| ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)* 
 
 </div>
 </div>
@@ -60,19 +63,22 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
   
 **Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
 
-[PDF](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5190055) | **Anqi Wang**, Lei Han, Jiahua Dong, Muzhi Zhou, David Yip, Yuyang Wang, Pan Hui
+**Anqi Wang**, Lei Han, Jiahua Dong, Muzhi Zhou, David Yip, Yuyang Wang, Pan Hui
+
+[PDF](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5190055)
 
 </div>
 </div>
 
 
-- **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang | [ArXiv](https://arxiv.org/pdf/2504.13567) | **ISEA 2024** 
+- **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang \| [ArXiv](https://arxiv.org/pdf/2504.13567) \| **ISEA 2024** 
 
-- **Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**, **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui, **ICMI 2022**
+- **Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**, **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui,
+  [PDF](https://dl.acm.org/doi/pdf/10.1145/3536221.3558176) \| [ArXiv](https://arxiv.org/pdf/2206.03737) \| **ICMI 2022**
 
 - **Envisioning A Hyper-Learning System in the Age of Metaverse**, **Anqi Wang**, Ze Gao, Tristan Braud, Pan Hui, **SIGGRAPH VRCAI 2022**
 
-- **Interspaces Between Nature and the City**, Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan, **Chinese CHI 2022**
+- **Interspaces Between Nature and the City**, Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan, \| [PDF](https://dl.acm.org/doi/pdf/10.1145/3565698.3587395) \| **Chinese CHI 2022**
 
 - **Meditation in Motion: Interactive Media Art Visualization Based on Ancient Tai Chi Chuan**, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **ACM Multimedia 2022**
 
@@ -80,9 +86,9 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 
 - **VR PreM+: An Immersive Pre-learning Branching Visualization System for Museum Tours**, Ze Gao, Xiang Li, Changkun Liu, Xian Wang, **Anqi Wang**, Liang Yang, Yuyang Wang, Pan Hui, Tristan Braud, **Chinese CHI 2023**
 
-- **Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Too**l, Ze Gao*, Anqi Wang*, Pan Hui, Tristan Braud, **SIGGRAPH VRCAI 2022** (*Co-first authors*)
+- **Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Too**l, Ze Gao*, **Anqi Wang***, Pan Hui, Tristan Braud, **SIGGRAPH VRCAI 2022** (*Co-first authors*)
 
-- **Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements**, Jiahua Dong, Ruiqing Jiang, Anqi Wang, Yuankai Wang, **CAADRIA 2023**
+- **Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements**, Jiahua Dong, Ruiqing Jiang, **Anqi Wang**, Yuankai Wang, **CAADRIA 2023**
 
 
 # 🌟 Honors and Awards
@@ -106,7 +112,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 # 📖 Educations
 - *2022.02 - now*, Hong Kong University of Technology and Science
 - *2020.09 - 2021.12*, University College London
-- *2016.09 - 2020.06*, Guangzhou Academy of Fine Arts  
+- *2016.09 - 2020.06*, Guangzhou Academy of Fine Arts
 
 # 💬 Invited Talks
 - *2023.12*, Outstanding Graduates Personal Sharing, Guangzhou Academy of Fine Arts Overseas Graduate Society
