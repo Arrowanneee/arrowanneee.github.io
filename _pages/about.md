@@ -19,14 +19,15 @@ redirect_from:
 
 Hi! I am currently pursuing a Ph.D. in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of [Pan Hui](https://panhui.people.ust.hk/publications.html). Before joining HKUST, I worked at the [City Science Lab @shanghai](https://tjdi.tongji.edu.cn/about.do?ID=75&lang=_en)— a collaboration between the MIT Media Lab and Tongji University. I graduated with top honors from the School of Architecture and Applied Art at the Guangzhou Academy of Fine Arts and earned a Distinction in the MArch program at the Bartlett School, University College London. 
 
-With a background in HCI, design, architecture, I am particularly interested in technology-enhanced creativity and design, including LLM, AR/VR, and Web 3. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently split my time between Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
+With a background in design and architecture, I am particularly interested in technology-enhanced creativity and design. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently split my time between Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
 
 
 # 🔥 News
-- *2025.06*: &nbsp; As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *Surreality (幻实之境)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
+- *2025.06*: &nbsp; As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
 - *2024.07*: &nbsp;🎉🎉 *Towards AI-Architecture Liberty* was accepted to ACM Computing Surveys!
-- *2022.11*: I reported our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India.
+- *2024.04*: I passed the PQE and became a Ph.D. candidate in the Individualized Interdisciplinary Program under the Division of Emerging Interdisciplinary Areas at HKUST. 
+- *2022.11*: I presented our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India.
 - *2022.11*: &nbsp;🏅🏅 *Decentralized, not Dehumanized in the Metaverse* was selected as Blue Sky Track Winners (3rd Place) at ICMI 2022 sponsored by The Computing Community Consortium (CCC) - [CCC Blog](https://cccblog.org/2022/11/17/blue-sky-track-winners-at-icmi-2022/). The conference was held in Bengaluru (Bangalore), India on on November 7-11th. 
 
 
@@ -75,6 +76,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 <div class='paper-box-text' markdown="1">
   
 **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**
+
 Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang \| 
 
 [ArXiv](https://arxiv.org/pdf/2504.13567) \| **ISEA 2024** 
