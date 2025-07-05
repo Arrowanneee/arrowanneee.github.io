@@ -27,6 +27,9 @@ With a background in design and architecture, I am particularly interested in te
 # 🔥 News
 - *2025.06*: &nbsp; As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
+- *2025.03*: I organized a field trip as part of the UCUG1001 course, facilitating a visit and learning experience for first-year undergraduate students to Qihui School (a special education school) in Nansha, China. 
+- *2025.02*: I served as a TA for UCUG1001 (L02) course - Behavioral Foundations of University Education: Habits, Mindsets, and Wellness at HKUST(GZ).
+- *2024.09*: I served as a TA for INFH 5000 course - Information Science and Technology: Essentials and Trends at HKUST(GZ).
 - *2024.07*: &nbsp;🎉🎉 *Towards AI-Architecture Liberty* was accepted to ACM Computing Surveys!
 - *2024.04*: I passed the PQE and became a Ph.D. candidate in the Individualized Interdisciplinary Program under the Division of Emerging Interdisciplinary Areas at HKUST. 
 - *2022.11*: I presented our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India. 
