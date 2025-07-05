@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Anqi Wang"
-description              : "Ph.D. candidate at Hong Kong University of Science and Technology."
+description              : #"Ph.D. candidate at Hong Kong University of Science and Technology."
 repository               : "Arrowanneee/arrowanneee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Anqi Wang"
   avatar           : "images/1004111751646425_.pic.jpg"
-  bio              : "Division of Emerging Interdisciplinary Area, Hong Kong University of Technology and Science"
+  bio              : "Ph.D candidate at Division of Emerging Interdisciplinary Area, Hong Kong University of Technology and Science"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : https://www.youtube.com/@anqiwang8113
+  youtube          : @anqiwang8113
   wikipedia        :
 
 
