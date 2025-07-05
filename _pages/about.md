@@ -116,6 +116,8 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 
 - **Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements**, Jiahua Dong, Ruiqing Jiang, **Anqi Wang**, Yuankai Wang, **CAADRIA 2023**
 
+- **The Bartlett B-Pro Show Book 2021**, The Bartlett School of Architecture UCL, 2021 \| [PDF](https://issuu.com/bartlettarchucl/docs/bartlett-b-pro-2021))
+
 
 # 🌟 Honors and Awards
 - *08-2023* Metaverse Digital Art Festival of the Greater Bay Area (Bronze)  
