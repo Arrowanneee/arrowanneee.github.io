@@ -27,7 +27,7 @@ With a background in design and architecture, I am particularly interested in te
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
 - *2024.07*: &nbsp;🎉🎉 *Towards AI-Architecture Liberty* was accepted to ACM Computing Surveys!
 - *2024.04*: I passed the PQE and became a Ph.D. candidate in the Individualized Interdisciplinary Program under the Division of Emerging Interdisciplinary Areas at HKUST. 
-- *2022.11*: I presented our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India.
+- *2022.11*: I presented our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India. 
 - *2022.11*: &nbsp;🏅🏅 *Decentralized, not Dehumanized in the Metaverse* was selected as Blue Sky Track Winners (3rd Place) at ICMI 2022 sponsored by The Computing Community Consortium (CCC) - [CCC Blog](https://cccblog.org/2022/11/17/blue-sky-track-winners-at-icmi-2022/). The conference was held in Bengaluru (Bangalore), India on on November 7-11th. 
 
 
@@ -77,7 +77,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
   
 **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**
 
-Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang \| 
+Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang 
 
 [ArXiv](https://arxiv.org/pdf/2504.13567) \| **ISEA 2024** 
 
