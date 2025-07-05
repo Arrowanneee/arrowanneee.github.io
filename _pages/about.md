@@ -22,6 +22,8 @@ Hi! I am currently pursuing a Ph.D. in Human-Computer Interaction (HCI) field ac
 With a background in design and architecture, I am particularly interested in technology-enhanced creativity and design. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently split my time between Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
 
 
+
+
 # 🔥 News
 - *2025.06*: &nbsp; As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
