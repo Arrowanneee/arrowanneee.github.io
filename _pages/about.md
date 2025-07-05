@@ -160,7 +160,7 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 - *08-2022*, Messier 31 Contemporary Art Exhibition, Online  
 - *08-2022*, Electric Dreams, CMA Symposium and Exhibition [(Online)](https://electricdreams.ust.hk/#symposium)  
 - *10-2021–03-2022*, Expo 2020 Dubai, Chinese Culture Palace  
-- *10-2021*, The Bartlett B-Pro Show, London/[Online](Online https://bpro2021.bartlettarchucl.com/rc19-excursions-on-media-ecology/hyper-learning-and-unlearning)
+- *10-2021*, The Bartlett B-Pro Show, London & [Online](https://bpro2021.bartlettarchucl.com/rc19-excursions-on-media-ecology/hyper-learning-and-unlearning)
 - *11-2020*, CAFA National Graduate Exhibition  
 - *12-2020*, Zhuhai International Design Week  
 - *11-2019*, China Social Welfare Foundation Charity Exhibition  
