@@ -58,7 +58,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSRN</div><img src='images/LGBTQ+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
@@ -71,7 +71,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2024</div><img src='images/ISEA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang \| 
@@ -82,8 +82,15 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 </div>
 
 
-- **Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**, **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui,
-  [PDF](https://dl.acm.org/doi/pdf/10.1145/3536221.3558176) \| [ArXiv](https://arxiv.org/pdf/2206.03737) \| **ICMI 2022**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2022</div><img src='images/ICMI22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**, **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui
+
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3536221.3558176) \| [ArXiv](https://arxiv.org/pdf/2206.03737) \| **ICMI 2022**
+
+</div>
+</div>
 
 - **Envisioning A Hyper-Learning System in the Age of Metaverse**, **Anqi Wang**, Ze Gao, Tristan Braud, Pan Hui, **SIGGRAPH VRCAI 2022**
 
