@@ -74,7 +74,8 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2024</div><img src='images/ISEA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**, Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang \| 
+**PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**
+Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang \| 
 
 [ArXiv](https://arxiv.org/pdf/2504.13567) \| **ISEA 2024** 
 
@@ -85,7 +86,9 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2022</div><img src='images/ICMI22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**, **Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui
+**Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**
+
+**Anqi Wang**, Ze Gao, Lik-Hang Lee, Tristan Braud, Pan Hui
 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3536221.3558176) \| [ArXiv](https://arxiv.org/pdf/2206.03737) \| **ICMI 2022**
 
