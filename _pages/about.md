@@ -128,7 +128,7 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 - *11-2022* NTU Global Digital Art Prize, Shortlist Award  
 - *10-2022* DesignNOVA Awards, Shortlist  
 - *06-2022* MetaCity Innovator Competition, Silver  
-- *10-2021* CGarchitect 3Dawards, Nominee  
+- *10-2021* CGarchitect 3Dawards, Nominee
 - *11-2020* Asian Design Award, Bronze  
 - *06-2020* GAFA Honorary Graduation Design Award (Top 1%)  
 - *06-2020* GAFA Graduation Award for Excellence Creation (Top 5%)  
@@ -160,7 +160,7 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 - *08-2022*, Messier 31 Contemporary Art Exhibition, Online  
 - *08-2022*, Electric Dreams, CMA Symposium and Exhibition [(Online)](https://electricdreams.ust.hk/#symposium)  
 - *10-2021–03-2022*, Expo 2020 Dubai, Chinese Culture Palace  
-- *10-2021*, The Bartlett B-Pro Show, London  
+- *10-2021*, The Bartlett B-Pro Show, London/[Online](Online https://bpro2021.bartlettarchucl.com/rc19-excursions-on-media-ecology/hyper-learning-and-unlearning)
 - *11-2020*, CAFA National Graduate Exhibition  
 - *12-2020*, Zhuhai International Design Week  
 - *11-2019*, China Social Welfare Foundation Charity Exhibition  
