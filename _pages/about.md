@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently pursuing a Ph.D. in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of [Pan Hui](https://panhui.people.ust.hk/publications.html). 
+I am a Ph.D. candidate in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of [Pan Hui](https://panhui.people.ust.hk/publications.html). 
 
 My research focus on AI-supported creativity and human-AI collaboration. My research work has published in venues such as ACM CSUR/CSCW/MM/ICMI. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
 
@@ -33,7 +33,7 @@ My research focus on AI-supported creativity and human-AI collaboration. My rese
 - *2024.07*: &nbsp;🎉🎉 *Towards AI-Architecture Liberty* was accepted to ACM Computing Surveys!
 <!--- *2024.04*: I passed the PQE and became a Ph.D. candidate in the Individualized Interdisciplinary Program under the Division of Emerging Interdisciplinary Areas at HKUST.-->
 <!--- *2022.11*: I presented our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India.-->
-- *2022.11*: &nbsp;🏅🏅 *Decentralized, not Dehumanized in the Metaverse* was selected as Blue Sky Track Winners (3rd Place) at ICMI 2022 sponsored by The Computing Community Consortium (CCC) - [CCC Blog](https://cccblog.org/2022/11/17/blue-sky-track-winners-at-icmi-2022/). The conference was held in Bengaluru (Bangalore), India on on November 7-11th. 
+- *2022.11*: &nbsp;🏅🏅 *Decentralized, not Dehumanized in the Metaverse* was selected as Blue Sky Track Winners (3rd Place) at ICMI 2022 - [CCC Blog](https://cccblog.org/2022/11/17/blue-sky-track-winners-at-icmi-2022/). The conference was held in Bengaluru (Bangalore), India on on November 7-11th. 
 
 
 # 📑 Publications 
