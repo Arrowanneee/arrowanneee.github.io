@@ -19,14 +19,14 @@ redirect_from:
 
 I am a Ph.D. candidate in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of professor [Pan Hui](https://panhui.people.ust.hk/publications.html). 
 
-My research focus on AI-supported creativity and human-AI collaboration, always inspired by my interdisciplinary design background. My research work has published in venues such as ACM CSUR/CSCW/MM/ICMI. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
+My research focuses on AI-supported creativity and human-AI collaboration, always inspired by my interdisciplinary design background. My research work has published in venues such as ACM CSUR/CSCW/MM/ICMI. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
 
 
 
 
 # 🔥 News
 - *2025.10*: I demonsrated our work *inning “Reflection” on the Agenda* at CSCW ’25 in Bergen, Norway!
-- *2025.06*: &nbsp; As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
+- *2025.06*: &nbsp;As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
 - *2025.03*: I organized a field trip as part of the UCUG1001 course, facilitating a visit and learning experience for first-year undergraduate students to Qihui School (a special education school) in Nansha, China. 
 - *2025.02*: I served as a TA for UCUG1001 (L02) course - Behavioral Foundations of University Education: Habits, Mindsets, and Wellness at HKUST(GZ).
