@@ -25,6 +25,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 *Eye2Recall* was accepted to IUI 2026!
 - *2025.10*: I demonsrated our work *Pinning “Reflection” on the Agenda* at CSCW ’25 in Bergen, Norway!
 - *2025.06*: &nbsp;As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
@@ -38,6 +39,8 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 📑 Publications 
+
+- **Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults.**, Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip, ** Proceddings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026), March, 2026, Paphos, Cyprus** *(Date of acceptance: 12 December 2025)*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW25Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,7 +81,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2024</div><img src='images/ISEA24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2024 (International Symposium on Electronic Art 2024), Brisbane, Australia, June 2025 </div><img src='images/ISEA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**
