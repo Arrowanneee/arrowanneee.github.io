@@ -83,14 +83,14 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Symposium on Electronic Art 2024 (ISEA 2024), Brisbane, Australia, June 2024 </div><img src='images/ISEA24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2024</div><img src='images/ISEA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **PoEmotion: Generative Calligraphy Visualizing Emotion in Poems**
 
 Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang 
 
-[ArXiv](https://arxiv.org/pdf/2504.13567) \| **ISEA 2024** 
+[ArXiv](https://arxiv.org/pdf/2504.13567) \| **International Symposium on Electronic Art 2024 (ISEA 2024), Brisbane, Australia, June 2024** 
 
 </div>
 </div>
