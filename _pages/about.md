@@ -51,7 +51,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
 
-[ArXiv](https://arxiv.org/pdf/2511.15331) \| Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26), Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
+[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
 - Reframing human–LLM misalignment in design thinking: Identifies a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
 - Curated reasoning as an interaction paradigm: Introduces curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
 - Empirical evidence for creativity and design quality gains: Studies with designers show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
@@ -65,7 +65,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 Lei Han, **Anqi Wang**, Ziqi Lin, David Yip 
 
-International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United Arab Emirates *(Date of acceptance: 27 Feb 2026)* 
+**International Symposium on Electronic / Emerging Art (ISEA 2026)**, Dubai, United Arab Emirates *(Date of acceptance: 27 Feb 2026)* 
 - Reimagining cultural ritual through interactive systems: Translates Qu Shui Liu Shang and calligraphy tracing into a multisensory, data-driven installation that bridges historical practice and contemporary interaction. 
 - Integrating embodied interaction with generative media: Combines remote-sensed terrain, real-time handwriting capture, and algorithmic audiovisual feedback to create a shared, participatory calligraphy environment.
 - Exploring identity through collective and mediated practice: Preliminary study shows high fluency and aesthetic engagement, highlighting how technologically mediated participation supports cultural learning and identity construction.
@@ -79,7 +79,7 @@ International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United 
 
 Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip 
 
-Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026), March, 2026, Paphos, Cyprus *(Date of acceptance: 12 December 2025)*
+**Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026)**, March, 2026, Paphos, Cyprus *(Date of acceptance: 12 December 2025)*
 - Designing for reflective reminiscence: Derived design considerations from expert interviews, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. 
 - Gaze-to-prompt interaction mechanism: Developed Eye2Recall, a mixed-initiative conversational system that transforms eye gaze on photos into adaptive LLM prompts, reducing user effort while aligning with users’ attention. 
 - Empirical evidence of well-being and recall support: Pilot study with older adults shows improved mood, low interaction burden, and enhanced retrieval of concrete memories through gaze-driven reflective storytelling.
@@ -93,7 +93,7 @@ Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026)
 
 **Anqi Wang**, Zhizhuo Yin, Yulu Hu, Yuanyuan Mao, Lei Han, Xin Tong, Keqin Jiao, Pan Hui
 
-Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW '25), Bergen, Norway, October 2025  *(Date of acceptance: 19 June 2025)*
+**Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW '25)**, Bergen, Norway, October 2025  *(Date of acceptance: 19 June 2025)*
 - We demonstrate how Baumer’s reflection typology applies and adapts in the context of LLM-based creative coding; 
 - We conduct an empirical evidence showing how task-decomposed prompting fosters deeper, more strategic reflection; 
 - We propose design implications for rethinking reflective prompting beyond productivity scaffolding, but as a catalyst for creative reasoning and adaptive goal-setting.
@@ -107,7 +107,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 
 **Anqi Wang**, Jiahua Dong, Lik-Hang Lee, Jiachuan Shen, Pan Hui
 
-[PDF](https://dl.acm.org/doi/full/10.1145/3688569) \| ACM Computing Surveys (CSUR) *(Date of acceptance: 9 July 2024)* 
+[PDF](https://dl.acm.org/doi/full/10.1145/3688569) \| **ACM Computing Surveys (CSUR)** *(Date of acceptance: 9 July 2024)* 
 
 </div>
 </div>
@@ -118,6 +118,9 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 **Dream the Dream: Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
 
 **Anqi Wang**, Lei Han, Jiahua Dong, Muzhi Zhou, David Yip, Yuyang Wang, Pan Hui
+
+**Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
+
 - Revealing barriers in cross-group digital communication: Identifies how heteronormative norms and platform biases shape interactions between LGBTQ+ and cisgender users in virtual environments. 
 - Futuring participatory design for inclusive Metaverse interactions: Engages participants in speculative workshops to co-create socio-spatial-technical solutions across activity, interaction, scene, and space layers.
 - Designing for power-aware and equitable virtual spaces: Proposes principles addressing spatial cues and power geometry, positioning futuring as a method for reimagining inclusive communication infrastructures.
