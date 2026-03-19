@@ -25,8 +25,8 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 My two first-author papers, *[DesignerlyLoop](https://arxiv.org/pdf/2511.15331)* and *Dream the Dream*, have been conditionally accepted to DIS 2026. 
-- *2026.03*: &nbsp;🎉🎉 Our *[Reflection in Creative Experience (RiCE) Workshop](https://riceworkshop.github.io/)* was accepted to C&C (Creativity and Cognition) Conference 2026! 📢 Call for papers, pictorials, videos before 12 May AoE.
+- *2026.03*: &nbsp;🎉🎉 My two first-author papers, *DesignerlyLoop* and *Dream the Dream*, have been conditionally accepted to DIS 2026. 
+- *2026.03*: &nbsp; Our *Reflection in Creative Experience (RiCE) Workshop* was accepted to C&C (Creativity and Cognition) Conference 2026! 📢 Call for papers, pictorials, videos before 12 May AoE [[Website](https://riceworkshop.github.io/)].
 - *2026.03*: &nbsp;I served as an AC for the DiWP track at DIS 2026. 
 - *2026.02*: &nbsp;🎉🎉 *Echoing Streams* was accepted to ISEA 2026!  
 - *2025.12*: &nbsp;🎉🎉 *Eye2Recall* was accepted to IUI 2026!  <!-- The conference will hold in Paphos, Cyprus (a beautiful island country in the eastern Mediterranean) on March 23-26, 2026.-->
@@ -44,6 +44,8 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 📑 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/DesignerlyLoop-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **DesignerlyLoop: Forming Design Intent through Curated Reasoning for Human-LLM Alignment**
 
@@ -54,14 +56,23 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/DesignerlyLoop-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-<!--**DesignerlyLoop: Forming Design Intent through Curated Reasoning for Human-LLM Alignment**, **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)** *(Date of conditional acceptance: 18 Mar 2026)*. [Early Version](https://arxiv.org/pdf/2511.15331)-->
 
 **Echoing Streams: Constellating Calligraphic Ritual, Place and Data through Interactive Experience**, Lei Han, **Anqi Wang**, Ziqi Lin, David Yip, **International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United Arab Emirates** *(Date of acceptance: 27 Feb 2026)*. 
 
-**Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults**, Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip, **Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026), March, 2026, Paphos, Cyprus** *(Date of acceptance: 12 December 2025)*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/eye2recall-system.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults** 
+Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip 
+Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026), March, 2026, Paphos, Cyprus *(Date of acceptance: 12 December 2025)*
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW25Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
