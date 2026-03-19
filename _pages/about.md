@@ -51,7 +51,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
 
-[PDF](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)** *(Date of conditional acceptance: 18 Mar 2026)*
+[ArXiv](https://arxiv.org/pdf/2511.15331) \| Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26), Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
 
 </div>
 </div>
@@ -59,7 +59,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Echoing Streams: Constellating Calligraphic Ritual, Place and Data through Interactive Experience**, Lei Han, **Anqi Wang**, Ziqi Lin, David Yip, **International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United Arab Emirates** *(Date of acceptance: 27 Feb 2026)*. 
+**Echoing Streams: Constellating Calligraphic Ritual, Place and Data through Interactive Experience**, Lei Han, **Anqi Wang**, Ziqi Lin, David Yip, International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United Arab Emirates *(Date of acceptance: 27 Feb 2026)* 
 
 </div>
 </div>
