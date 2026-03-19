@@ -25,11 +25,11 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 Congrats to my two first-author papers, *[DesignerlyLoop](https://arxiv.org/pdf/2511.15331)* and *Dream the Dream*, have been conditionally accepted to DIS 2026. 
-- *2026.03*: &nbsp;🎉🎉 Our *[Reflection in Creative Experience (RiCE) Workshop](https://riceworkshop.github.io/)* was accepted to C&C (Creativity and Cognition) Conference 2026! Call for papers, pictorials, videos before 12 May AoE.
+- *2026.03*: &nbsp;🎉🎉 My two first-author papers, *[DesignerlyLoop](https://arxiv.org/pdf/2511.15331)* and *Dream the Dream*, have been conditionally accepted to DIS 2026. 
+- *2026.03*: &nbsp;🎉🎉 Our *[Reflection in Creative Experience (RiCE) Workshop](https://riceworkshop.github.io/)* was accepted to C&C (Creativity and Cognition) Conference 2026! 📢 Call for papers, pictorials, videos before 12 May AoE.
 - *2026.03*: &nbsp;I served as an AC for the DiWP track at DIS 2026. 
-- *2026.02*: &nbsp;🎉🎉 Our art Poster *Echoing Streams* was accepted to ISEA 2026! The conference also got postponed. 
-- *2025.12*: &nbsp;🎉🎉 *Eye2Recall* was accepted to IUI 2026!  The conference was postponed because of the war :(  <!-- The conference will hold in Paphos, Cyprus (a beautiful island country in the eastern Mediterranean) on March 23-26, 2026.-->
+- *2026.02*: &nbsp;🎉🎉 *Echoing Streams* was accepted to ISEA 2026!  
+- *2025.12*: &nbsp;🎉🎉 *Eye2Recall* was accepted to IUI 2026!  <!-- The conference will hold in Paphos, Cyprus (a beautiful island country in the eastern Mediterranean) on March 23-26, 2026.-->
 - *2025.10*: I demonsrated our work *Pinning “Reflection” on the Agenda* at CSCW ’25 in Bergen, Norway!
 - *2025.06*: &nbsp;As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
