@@ -77,7 +77,7 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted DIS 26</div><img src='images/LGBTQ+.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/LGBTQ+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Dream the Dream: Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
