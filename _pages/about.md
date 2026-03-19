@@ -25,14 +25,14 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 My two first-author papers, *DesignerlyLoop* and *Dream the Dream*, have been conditionally accepted to DIS 2026. 
-- *2026.03*: &nbsp; Our *Reflection in Creative Experience (RiCE) Workshop* was accepted to C&C (Creativity and Cognition) Conference 2026! 📢 Call for papers, pictorials, videos before 12 May AoE [[Website](https://riceworkshop.github.io/)].
-- *2026.03*: &nbsp;I served as an AC for the DiWP track at DIS 2026. 
-- *2026.02*: &nbsp;🎉🎉 *Echoing Streams* was accepted to ISEA 2026!  
-- *2025.12*: &nbsp;🎉🎉 *Eye2Recall* was accepted to IUI 2026!  <!-- The conference will hold in Paphos, Cyprus (a beautiful island country in the eastern Mediterranean) on March 23-26, 2026.-->
-- *2025.10*: I demonsrated our work *Pinning “Reflection” on the Agenda* at CSCW ’25 in Bergen, Norway!
-- *2025.06*: &nbsp;As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
-- *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
+- *2026.03*: &nbsp;🎉🎉 My two first-author papers, *DesignerlyLoop* and *Dream the Dream*, have been conditionally accepted to 🇸🇬DIS 2026. 
+- *2026.03*: &nbsp; Our *Reflection in Creative Experience (RiCE) Workshop* was accepted to 🇬🇧C&C (Creativity and Cognition) Conference 2026! 📢 Call for papers, pictorials, videos before 12 May AoE [[Website](https://riceworkshop.github.io/)].
+- *2026.03*: &nbsp;I served as an AC for the DiWP track at 🇸🇬DIS 2026. 
+- *2026.02*: &nbsp;🎉🎉 *Echoing Streams* was accepted to 🇦🇪ISEA 2026!  
+- *2025.12*: &nbsp;🎉🎉 *Eye2Recall* was accepted to 🇨🇾IUI 2026!  <!-- The conference will hold in Paphos, Cyprus (a beautiful island country in the eastern Mediterranean) on March 23-26, 2026.-->
+- *2025.10*: I demonsrated our work *Pinning “Reflection” on the Agenda* at CSCW ’25 in 🇳🇴Bergen, Norway!
+- *2025.06*: &nbsp;As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at 🇨🇳HKUST (GZ) in China from 26 June - 26 August. 
+- *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to 🇳🇴CSCW 2025 (Poster Track)!
 <!-- - *2025.03*: I organized a field trip as part of the UCUG1001 course, facilitating a visit and learning experience for first-year undergraduate students to Qihui School (a special education school) in Nansha, China. -->
 <!-- - *2025.02*: I served as a TA for UCUG1001 (L02) course - Behavioral Foundations of University Education: Habits, Mindsets, and Wellness at HKUST(GZ).-->
 <!-- - *2024.09*: I served as a TA for INFH 5000 course - Information Science and Technology: Essentials and Trends at HKUST(GZ).-->
@@ -56,10 +56,14 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Echoing Streams: Constellating Calligraphic Ritual, Place and Data through Interactive Experience**, Lei Han, **Anqi Wang**, Ziqi Lin, David Yip, International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United Arab Emirates *(Date of acceptance: 27 Feb 2026)* 
+**Echoing Streams: Constellating Calligraphic Ritual, Place and Data through Interactive Experience** 
+
+Lei Han, **Anqi Wang**, Ziqi Lin, David Yip 
+
+International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United Arab Emirates *(Date of acceptance: 27 Feb 2026)* 
 
 </div>
 </div>
@@ -68,7 +72,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 <div class='paper-box-text' markdown="1">
 
 **Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults** 
+
 Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip 
+
 Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026), March, 2026, Paphos, Cyprus *(Date of acceptance: 12 December 2025)*
 
 </div>
