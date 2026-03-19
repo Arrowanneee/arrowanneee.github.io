@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of professor [Pan Hui](https://panhui.people.ust.hk/publications.html). 
+I am a Ph.D. candidate in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of professor [Pan Hui](https://panhui.people.ust.hk/publications.html) and [David Yip](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YIP-DavidKeiMan/daveyip). 
 
 My research focuses on AI-supported creativity and human-AI collaboration, always inspired by my interdisciplinary design background. My research work has published in venues such as ACM CSUR/CSCW/MM/IUI/ICMI. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
 
