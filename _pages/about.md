@@ -52,7 +52,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
 
 [ArXiv](https://arxiv.org/pdf/2511.15331) \| Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26), Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
-
+- Reframing human–LLM misalignment in design thinking: Identifies a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
+- Curated reasoning as an interaction paradigm: Introduces curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
+- Empirical evidence for creativity and design quality gains: Studies with designers show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
 </div>
 </div>
 
@@ -116,7 +118,9 @@ Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Socia
 **Dream the Dream: Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
 
 **Anqi Wang**, Lei Han, Jiahua Dong, Muzhi Zhou, David Yip, Yuyang Wang, Pan Hui
-
+- Revealing barriers in cross-group digital communication: Identifies how heteronormative norms and platform biases shape interactions between LGBTQ+ and cisgender users in virtual environments. 
+- Futuring participatory design for inclusive Metaverse interactions: Engages participants in speculative workshops to co-create socio-spatial-technical solutions across activity, interaction, scene, and space layers.
+- Designing for power-aware and equitable virtual spaces: Proposes principles addressing spatial cues and power geometry, positioning futuring as a method for reimagining inclusive communication infrastructures.
 </div>
 </div>
 
