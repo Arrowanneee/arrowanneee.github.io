@@ -64,7 +64,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 Lei Han, **Anqi Wang**, Ziqi Lin, David Yip 
 
 International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United Arab Emirates *(Date of acceptance: 27 Feb 2026)* 
-
+- Reimagining cultural ritual through interactive systems: Translates Qu Shui Liu Shang and calligraphy tracing into a multisensory, data-driven installation that bridges historical practice and contemporary interaction. 
+- Integrating embodied interaction with generative media: Combines remote-sensed terrain, real-time handwriting capture, and algorithmic audiovisual feedback to create a shared, participatory calligraphy environment.
+- Exploring identity through collective and mediated practice: Preliminary study shows high fluency and aesthetic engagement, highlighting how technologically mediated participation supports cultural learning and identity construction.
 </div>
 </div>
 
@@ -76,7 +78,9 @@ International Symposium on Electronic / Emerging Art (ISEA 2026), Dubai, United 
 Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip 
 
 Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026), March, 2026, Paphos, Cyprus *(Date of acceptance: 12 December 2025)*
-
+- Designing for reflective reminiscence: Derived design considerations from expert interviews, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. 
+- Gaze-to-prompt interaction mechanism: Developed Eye2Recall, a mixed-initiative conversational system that transforms eye gaze on photos into adaptive LLM prompts, reducing user effort while aligning with users’ attention. 
+- Empirical evidence of well-being and recall support: Pilot study with older adults shows improved mood, low interaction burden, and enhanced retrieval of concrete memories through gaze-driven reflective storytelling.
 </div>
 </div>
 
