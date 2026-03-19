@@ -25,20 +25,21 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 Congrats to my two first-author papers *[DesignerlyLoop](https://arxiv.org/pdf/2511.15331)* and *Dream the Dream* has been conditionlly accepted by DIS 2026. 
-- *2026.03*: &nbsp;🎉🎉 Our *[Reflection in Creative Experience (RiCE) Workshop](https://riceworkshop.github.io/)* was accepted to C&C (Creativity and Cognition) Conference 2026! Call for papers, pictorials, videos before 12 May AoE. 
+- *2026.03*: &nbsp;🎉🎉 Congrats to my two first-author papers *[DesignerlyLoop](https://arxiv.org/pdf/2511.15331)* and *Dream the Dream* has been conditionally accepted by DIS 2026. 
+- *2026.03*: &nbsp;🎉🎉 Our *[Reflection in Creative Experience (RiCE) Workshop](https://riceworkshop.github.io/)* was accepted to C&C (Creativity and Cognition) Conference 2026! Call for papers, pictorials, videos before 12 May AoE.
+- *2026.03*: &nbsp;I served as an AC for the DiWP track at DIS 2026. 
 - *2026.02*: &nbsp;🎉🎉 Our art Poster *Echoing Streams* was accepted to ISEA 2026! The conference also got postponed. 
 - *2025.12*: &nbsp;🎉🎉 *Eye2Recall* was accepted to IUI 2026!  The conference was postponed because of the war :(  <!-- The conference will hold in Paphos, Cyprus (a beautiful island country in the eastern Mediterranean) on March 23-26, 2026.-->
 - *2025.10*: I demonsrated our work *Pinning “Reflection” on the Agenda* at CSCW ’25 in Bergen, Norway!
 - *2025.06*: &nbsp;As the *curatorial executive* of MC2 curatorial team, I organised, prepared, and curated the world's first exhibition of Extended Reality x AI - *[Surreality (幻实之境)](https://www.facebook.com/HKUSTGZINFH/posts/-surreality-a-glimpse-into-the-fusion-of-the-real-virtualhkust-guangzhou-proudly/748482837700433/)*. The exhibition is open to the public and is on display at HKUST (GZ) in China from 26 June - 26 August. 
 - *2025.06*: &nbsp;🎉🎉 *Pinning “Reflection” on the Agenda* was accepted to CSCW 2025 (Poster Track)!
-- *2025.03*: I organized a field trip as part of the UCUG1001 course, facilitating a visit and learning experience for first-year undergraduate students to Qihui School (a special education school) in Nansha, China. 
-<!--- - *2025.02*: I served as a TA for UCUG1001 (L02) course - Behavioral Foundations of University Education: Habits, Mindsets, and Wellness at HKUST(GZ).-->
-<!--- - *2024.09*: I served as a TA for INFH 5000 course - Information Science and Technology: Essentials and Trends at HKUST(GZ).-->
+<!-- - *2025.03*: I organized a field trip as part of the UCUG1001 course, facilitating a visit and learning experience for first-year undergraduate students to Qihui School (a special education school) in Nansha, China. -->
+<!-- - *2025.02*: I served as a TA for UCUG1001 (L02) course - Behavioral Foundations of University Education: Habits, Mindsets, and Wellness at HKUST(GZ).-->
+<!-- - *2024.09*: I served as a TA for INFH 5000 course - Information Science and Technology: Essentials and Trends at HKUST(GZ).-->
 - *2024.07*: &nbsp;🎉🎉 *Towards AI-Architecture Liberty* was accepted to ACM Computing Surveys!
-<!--- *2024.04*: I passed the PQE and became a Ph.D. candidate in the Individualized Interdisciplinary Program under the Division of Emerging Interdisciplinary Areas at HKUST.-->
-<!--- - *2022.11*: I presented our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India.-->
-<!--- - *2022.11*: &nbsp;🏅🏅 *Decentralized, not Dehumanized in the Metaverse* was selected as Blue Sky Track Winners (3rd Place) at ICMI 2022 - [CCC Blog](https://cccblog.org/2022/11/17/blue-sky-track-winners-at-icmi-2022/). The conference was held in Bengaluru (Bangalore), India on on November 7-11th.-->
+<!-- - *2024.04*: I passed the PQE and became a Ph.D. candidate in the Individualized Interdisciplinary Program under the Division of Emerging Interdisciplinary Areas at HKUST.-->
+<!-- - *2022.11*: I presented our work *Decentralized, not Dehumanized in the Metaverse* online as first author in 24th ACM International Conference on Multimodal Interaction (7-11 Nov 2022) Bengaluru, India.-->
+<!-- - *2022.11*: &nbsp;🏅🏅 *Decentralized, not Dehumanized in the Metaverse* was selected as Blue Sky Track Winners (3rd Place) at ICMI 2022 - [CCC Blog](https://cccblog.org/2022/11/17/blue-sky-track-winners-at-icmi-2022/). The conference was held in Bengaluru (Bangalore), India on on November 7-11th.-->
 
 
 
