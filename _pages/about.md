@@ -25,7 +25,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 Congrats to my two first-author papers *[DesignerlyLoop](https://arxiv.org/pdf/2511.15331)* and *Dream the Dream* has been conditionally accepted by DIS 2026. 
+- *2026.03*: &nbsp;🎉🎉 Congrats to my two first-author papers, *[DesignerlyLoop](https://arxiv.org/pdf/2511.15331)* and *Dream the Dream*, have been conditionally accepted to DIS 2026. 
 - *2026.03*: &nbsp;🎉🎉 Our *[Reflection in Creative Experience (RiCE) Workshop](https://riceworkshop.github.io/)* was accepted to C&C (Creativity and Cognition) Conference 2026! Call for papers, pictorials, videos before 12 May AoE.
 - *2026.03*: &nbsp;I served as an AC for the DiWP track at DIS 2026. 
 - *2026.02*: &nbsp;🎉🎉 Our art Poster *Echoing Streams* was accepted to ISEA 2026! The conference also got postponed. 
