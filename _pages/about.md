@@ -62,6 +62,35 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/LGBTQ+.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Dream the Dream: Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
+
+**Anqi Wang**, Lei Han, Jiahua Dong, Muzhi Zhou, David Yip, Yuyang Wang, Pan Hui
+
+[ArXiv](https://arxiv.org/abs/2603.18578) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
+
+- Revealing barriers in cross-group digital communication: Identifies how heteronormative norms and platform biases shape interactions between LGBTQ+ and cisgender users in virtual environments. 
+- Futuring participatory design for inclusive Metaverse interactions: Engages participants in speculative workshops to co-create socio-spatial-technical solutions across activity, interaction, scene, and space layers.
+- Designing for power-aware and equitable virtual spaces: Proposes principles addressing spatial cues and power geometry, positioning futuring as a method for reimagining inclusive communication infrastructures.
+</div>
+</div>
+
+**Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults** 
+
+Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip 
+
+[PDF](https://dl.acm.org/doi/abs/10.1145/3742413.3789085) \| [ArXiv](https://arxiv.org/abs/2508.02232) \| **Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026)**, March, 2026, Paphos, Cyprus *(Date of acceptance: 12 December 2025)*
+- Designing for reflective reminiscence: Derived design considerations from expert interviews, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. 
+- Gaze-to-prompt interaction mechanism: Developed Eye2Recall, a mixed-initiative conversational system that transforms eye gaze on photos into adaptive LLM prompts, reducing user effort while aligning with users’ attention. 
+- Empirical evidence of well-being and recall support: Pilot study with older adults shows improved mood, low interaction burden, and enhanced retrieval of concrete memories through gaze-driven reflective storytelling.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW25Poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
 **Echoing Streams: Constellating Calligraphic Ritual, Place and Data through Interactive Experience** 
 
 Lei Han, **Anqi Wang**, Ziqi Lin, David Yip 
@@ -76,25 +105,11 @@ Lei Han, **Anqi Wang**, Ziqi Lin, David Yip
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/eye2recall-system.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults** 
-
-Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip 
-
-[PDF](https://dl.acm.org/doi/abs/10.1145/3742413.3789085) \| [ArXiv](https://arxiv.org/abs/2508.02232) \| **Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026)**, March, 2026, Paphos, Cyprus *(Date of acceptance: 12 December 2025)*
-- Designing for reflective reminiscence: Derived design considerations from expert interviews, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. 
-- Gaze-to-prompt interaction mechanism: Developed Eye2Recall, a mixed-initiative conversational system that transforms eye gaze on photos into adaptive LLM prompts, reducing user effort while aligning with users’ attention. 
-- Empirical evidence of well-being and recall support: Pilot study with older adults shows improved mood, low interaction burden, and enhanced retrieval of concrete memories through gaze-driven reflective storytelling.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW25Poster.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 **Pinning “Reflection” on the Agenda: Investigating Reflection in Human–LLM Co-Creation for Creative Coding**
 
 **Anqi Wang**, Zhizhuo Yin, Yulu Hu, Yuanyuan Mao, Lei Han, Xin Tong, Keqin Jiao, Pan Hui
 
-[ArXiv](https://arxiv.org/abs/2402.09750) \| [PDF](https://dl.acm.org/doi/10.1145/3715070.3749234) \| **Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW '25)**, Bergen, Norway, October 2025  *(Date of acceptance: 19 June 2025)*
+[PDF](https://dl.acm.org/doi/10.1145/3715070.3749234) \| [ArXiv](https://arxiv.org/abs/2402.09750) \| **Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW '25)**, Bergen, Norway, October 2025  *(Date of acceptance: 19 June 2025)*
 - We demonstrate how Baumer’s reflection typology applies and adapts in the context of LLM-based creative coding; 
 - We conduct an empirical evidence showing how task-decomposed prompting fosters deeper, more strategic reflection; 
 - We propose design implications for rethinking reflective prompting beyond productivity scaffolding, but as a catalyst for creative reasoning and adaptive goal-setting.
@@ -108,26 +123,10 @@ Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip
 
 **Anqi Wang**, Jiahua Dong, Lik-Hang Lee, Jiachuan Shen, Pan Hui
 
-[ArXiv](https://arxiv.org/abs/2305.00510) \| [PDF](https://dl.acm.org/doi/full/10.1145/3688569) \| **ACM Computing Surveys (CSUR)** *(Date of acceptance: 9 July 2024)* 
+[PDF](https://dl.acm.org/doi/full/10.1145/3688569) \| [ArXiv](https://arxiv.org/abs/2305.00510) \| **ACM Computing Surveys (CSUR)** *(Date of acceptance: 9 July 2024)* 
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/LGBTQ+.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**Dream the Dream: Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
-
-**Anqi Wang**, Lei Han, Jiahua Dong, Muzhi Zhou, David Yip, Yuyang Wang, Pan Hui
-
-**Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
-
-- Revealing barriers in cross-group digital communication: Identifies how heteronormative norms and platform biases shape interactions between LGBTQ+ and cisgender users in virtual environments. 
-- Futuring participatory design for inclusive Metaverse interactions: Engages participants in speculative workshops to co-create socio-spatial-technical solutions across activity, interaction, scene, and space layers.
-- Designing for power-aware and equitable virtual spaces: Proposes principles addressing spatial cues and power geometry, positioning futuring as a method for reimagining inclusive communication infrastructures.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2024</div><img src='images/ISEA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
