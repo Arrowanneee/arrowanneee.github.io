@@ -59,9 +59,6 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/LGBTQ+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -77,6 +74,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/eye2recall-system.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults** 
 
 Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip 
@@ -88,8 +88,8 @@ Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW25Poster.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Echoing Streams: Constellating Calligraphic Ritual, Place and Data through Interactive Experience** 
 
@@ -102,8 +102,8 @@ Lei Han, **Anqi Wang**, Ziqi Lin, David Yip
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/eye2recall-system.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW25Poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
 
 **Pinning “Reflection” on the Agenda: Investigating Reflection in Human–LLM Co-Creation for Creative Coding**
 
