@@ -93,6 +93,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/DesignerlyLoop-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **DesignerlyLoop: Forming Design Intent through Curated Reasoning for Human-LLM Alignment**
 
 **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
