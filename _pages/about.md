@@ -93,24 +93,6 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/DesignerlyLoop-teaser.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DesignerlyLoop: Forming Design Intent through Curated Reasoning for Human-LLM Alignment**
-
-**Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
-
-[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
-- Reframing human–LLM misalignment in design thinking: Identifies a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
-- Curated reasoning as an interaction paradigm: Introduces curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
-- Empirical evidence for creativity and design quality gains: Studies with designers show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditional Accepted to DIS 26</div><img src='images/DesignerlyLoop-teaser.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 **DesignerlyLoop: Forming Design Intent through Curated Reasoning for Human-LLM Alignment**
 
 **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
