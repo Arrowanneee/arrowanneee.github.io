@@ -45,7 +45,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 📑 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/DesignerlyLoop-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CogInstrument-teaser' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**
@@ -53,13 +53,13 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **[Anqi Wang](https://arrowanneee.github.io/)**, [Dongyijie Primo Pan](https://primopan.github.io/about/), [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/)
 
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*-->
-- Reframing human–LLM misalignment in design thinking: Identifies a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
-- Curated reasoning as an interaction paradigm: Introduces curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
-- Empirical evidence for creativity and design quality gains: Studies with designers show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
+- Introducing cognitive motifs as fundamental units for human–LLM alignment, formalizing user reasoning as causal, compositional, and revisable structures rather than flat intents, and reframing alignment as operating over user-grounded cognitive processes. 
+- Implementing CogInstrument, a cognition-centric interaction system that extracts motifs from user interactions, externalizes them as editable causal graphs, and maintains a shared reasoning space for iterative, bidirectional negotiation between users and LLMs. 
+- A within-subject study (𝑁=12) shows that motif-based externalization improves articulation and diagnosis of complex reasoning, reduces repair effort, and enhances user trust and agency, providing a new analytical lens on human–AI alignment. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/DesignerlyLoop-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/NexusAI-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **NexusAI: Enabling Design Space Exploration of Ideas through Cognitive Abstraction and Functional Decomposition**
@@ -67,9 +67,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **[Anqi Wang](https://arrowanneee.github.io/)**, Bingqian Wang, Huiyang Chen, Keqing Jiao, Lei Han, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/)
 
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*-->
-- Reframing human–LLM misalignment in design thinking: Identifies a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
-- Curated reasoning as an interaction paradigm: Introduces curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
-- Empirical evidence for creativity and design quality gains: Studies with designers show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
+- Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. 
+- Developing NexusAI, an LLM-powered interface that operationalizes CA through What–How–Value decomposition, multi-level abstraction operators (L1–L4), and typed cross-dimensional recombination, enabling fine-grained manipulation of idea components beyond “whole ideas.”
+- A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows. 
 </div>
 </div>
 
