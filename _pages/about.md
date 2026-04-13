@@ -45,26 +45,6 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 📑 Publications 
-<div class="paper-box paper-box-vertical featured">
-
-  <div class="paper-box-image">
-    <div class="badge">Under Review</div>
-    <img src="images/CogInstrument-teaser.png" alt="sym">
-  </div>
-
-  <div class="paper-box-text" markdown="1">
-
-**CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**
-
-**[Anqi Wang](https://arrowanneee.github.io/)**, [Dongyijie Primo Pan](https://primopan.github.io/about/), [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/)
-
-- Introducing cognitive motifs as fundamental units for human–LLM alignment, formalizing user reasoning as causal, compositional, and revisable structures rather than flat intents, and reframing alignment as operating over user-grounded cognitive processes.  
-- Implementing CogInstrument, a cognition-centric interaction system that extracts motifs from user interactions, externalizes them as editable causal graphs, and maintains a shared reasoning space for iterative, bidirectional negotiation between users and LLMs.  
-- A within-subject study (𝑁=12) shows that motif-based externalization improves articulation and diagnosis of complex reasoning, reduces repair effort, and enhances user trust and agency, providing a new analytical lens on human–AI alignment.
-
-  </div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CogInstrument-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
