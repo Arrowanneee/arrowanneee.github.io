@@ -1,0 +1,22 @@
+/* 只影响 vertical 版本 */
+.paper-box-vertical {
+  display: block;
+}
+
+/* 图片在上 */
+.paper-box-vertical .paper-box-image {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+/* 文字在下 */
+.paper-box-vertical .paper-box-text {
+  width: 100%;
+}
+
+/* 取消原来的左右布局（通常是 flex） */
+.paper-box-vertical .paper-box-image,
+.paper-box-vertical .paper-box-text {
+  float: none;
+  display: block;
+}
