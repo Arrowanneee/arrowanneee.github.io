@@ -45,25 +45,6 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 📑 Publications 
-<div class='paper-box'>
-
-<div class="badge">Under Review</div>
-<img src='images/CogInstrument-teaser.png' alt="sym" width="100%">
-
-<div class='paper-box-text' markdown="1">
-
-### **CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**
-
-**[Anqi Wang](https://arrowanneee.github.io/)**, [Dongyijie Primo Pan](https://primopan.github.io/about/), [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/)
-
-**Theoretical.** Introducing cognitive motifs as fundamental units for human–LLM alignment, formalizing user reasoning as causal, compositional, and revisable structures.
-
-**System.** Implementing CogInstrument to extract motifs, externalize them as editable causal graphs, and support bidirectional human–LLM negotiation.
-
-**Empirical.** A within-subject study (𝑁=12) demonstrates improved reasoning articulation, reduced repair effort, and increased user trust and agency.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CogInstrument-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
