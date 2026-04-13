@@ -19,9 +19,10 @@ redirect_from:
 
 I am a Ph.D. candidate in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of professor [Pan Hui](https://panhui.people.ust.hk/publications.html) and [David Yip](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YIP-DavidKeiMan/daveyip). 
 
-My research focuses on AI-supported creativity and human-AI collaboration, always inspired by my interdisciplinary design background. My research work has published in venues such as ACM CSUR/CSCW/MM/IUI/ICMI. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
+My research focuses on AI-supported creativity and human-AI collaboration, always inspired by my interdisciplinary design background. I investigates how emerging AI can augment human cognition and capability, especially in creative domains. My research work has published in venues such as ACM CSUR/CSCW/MM/IUI/ICMI. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
 
-
+\textbf{Anqi Wang} is a Ph.D. candidate in the Individualized Interdisciplinary Program (Computational Media and Arts) at Hong Kong University of Science and Technology. 
+Her research focuses on AI-supported creativity and human-AI collaboration in Human-Computer Interaction, across LLM, design, and the Metaverse. She investigates how emerging AI can augment human cognition and capability, especially in creative domains. She served as Associate Chair at DIS 2026. Her art and design work has been featured in exhibitions such as the Chinese CHI Art Gallery and the Johan Verbeke International Exhibition. 
 
 
 # 🔥 News
