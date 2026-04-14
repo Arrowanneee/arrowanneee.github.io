@@ -49,7 +49,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 **CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**
 
-**[Anqi Wang](https://arrowanneee.github.io/)**, [Dongyijie Primo Pan](https://primopan.github.io/about/), [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/)
+**[Anqi Wang](https://arrowanneee.github.io/)**, [Dongyijie Primo Pan](https://primopan.github.io/about/), [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2604.10587)
 
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*-->
 - Introducing cognitive motifs as fundamental units for human–LLM alignment, formalizing user reasoning as causal, compositional, and revisable structures rather than flat intents, and reframing alignment as operating over user-grounded cognitive processes. 
@@ -63,7 +63,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 **NexusAI: Enabling Design Space Exploration of Ideas through Cognitive Abstraction and Functional Decomposition**
 
-**[Anqi Wang](https://arrowanneee.github.io/)**, Bingqian Wang, Huiyang Chen, Keqing Jiao, Lei Han, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/)
+**[Anqi Wang](https://arrowanneee.github.io/)**, Bingqian Wang, Huiyang Chen, Keqing Jiao, Lei Han, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2604.10575)
 
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*-->
 - Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. 
