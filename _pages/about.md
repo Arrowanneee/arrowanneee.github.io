@@ -21,9 +21,6 @@ I am a Ph.D. candidate in Human-Computer Interaction (HCI) field across LLM, des
 
 My research focuses on AI-supported creativity and human-AI collaboration, always inspired by my interdisciplinary design background. I investigates how emerging AI can augment human cognition and capability, especially in creative domains. My research work has published in venues such as ACM CSUR/CSCW/MM/IUI/ICMI. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). 
 
-\textbf{Anqi Wang} is a Ph.D. candidate in the Individualized Interdisciplinary Program (Computational Media and Arts) at Hong Kong University of Science and Technology. 
-Her research focuses on AI-supported creativity and human-AI collaboration in Human-Computer Interaction, across LLM, design, and the Metaverse. She investigates how emerging AI can augment human cognition and capability, especially in creative domains. She served as Associate Chair at DIS 2026. Her art and design work has been featured in exhibitions such as the Chinese CHI Art Gallery and the Johan Verbeke International Exhibition. 
-
 
 # 🔥 News
 - 📢📢📢 Call for papers, pictorials, videos for our *Reflection in Creative Experience (RiCE) Workshop* at C&C Conference 2026 before 12 May AoE [[Website](https://riceworkshop.github.io/)].
