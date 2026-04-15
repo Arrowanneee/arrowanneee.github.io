@@ -50,7 +50,6 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, [Dongyijie Primo Pan](https://primopan.github.io/about/), [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2604.10587)
-
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*-->
 - Introducing cognitive motifs as fundamental units for human–LLM alignment, formalizing user reasoning as causal, compositional, and revisable structures rather than flat intents, and reframing alignment as operating over user-grounded cognitive processes. 
 - Implementing CogInstrument, a cognition-centric interaction system that extracts motifs from user interactions, externalizes them as editable causal graphs, and maintains a shared reasoning space for iterative, bidirectional negotiation between users and LLMs. 
@@ -64,11 +63,23 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **NexusAI: Enabling Design Space Exploration of Ideas through Cognitive Abstraction and Functional Decomposition**
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, Bingqian Wang, Huiyang Chen, Keqing Jiao, Lei Han, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2604.10575)
-
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*-->
 - Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. 
 - Developing NexusAI, an LLM-powered interface that operationalizes CA through What–How–Value decomposition, multi-level abstraction operators (L1–L4), and typed cross-dimensional recombination, enabling fine-grained manipulation of idea components beyond “whole ideas.”
 - A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Reflexa-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reflexa:  Exploring the Large Language Models as Artifacts to Elicit Reflection in Creative Coding**
+
+**[Anqi Wang](https://arrowanneee.github.io/)**, Zhengyi Li, Lan Luo, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2601.17769)
+
+- Proposing LLM-elicited creative reflection strategies as scaffoloding for creative coding tasks, including reflective suggestions, lightweight inspiration, and non-linear version visualization. 
+- Developing Reflexa, an LLM-powered interface that operationalizes creative reflection strategies. 
+- A within-subject study (𝑁=20) demonstrates that the effectiveness of this reflection scaffoloding in supporting reflection, creativity, and creative outcomes. 
 </div>
 </div>
 
