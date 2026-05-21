@@ -76,9 +76,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **Reflexa:  Exploring the Large Language Models as Artifacts to Elicit Reflection in Creative Coding**
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, Zhengyi Li, Lan Luo, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2601.17769)
-- Proposing LLM-elicited creative reflection strategies as scaffoloding for creative coding tasks, including reflective suggestions, lightweight inspiration, and non-linear version visualization. 
-- Developing Reflexa, an LLM-powered interface that operationalizes creative reflection strategies. 
-- A within-subject study (𝑁=20) demonstrates that the effectiveness of this reflection scaffoloding in supporting reflection, creativity, and creative outcomes. 
+- Proposing a LLM-based reflection scaffolding for creative coding, including three strategies: reflective suggestions, lightweight inspiration, and non-linear version visualization. Demonstrates that its effectiveness in supporting reflection, creativity, and creative outcomes. 
 </div>
 </div>
 
@@ -90,9 +88,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
 
 [ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
-- Reframing human–LLM misalignment in design thinking: Identifies a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
+- Reframing human–LLM misalignment in design process: Identifies a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
 - Curated reasoning as an interaction paradigm: Introduces curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
-- Empirical evidence for creativity and design quality gains: Studies with designers show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
+- Empirical evidence: Studies with designers (N=20) show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
 </div>
 </div>
 
@@ -105,9 +103,8 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 [ArXiv](https://arxiv.org/abs/2603.18578) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
 
-- Revealing barriers in cross-group digital communication: Identifies how heteronormative norms and platform biases shape interactions between LGBTQ+ and cisgender users in virtual environments. 
-- Futuring participatory design for inclusive Metaverse interactions: Engages participants in speculative workshops to co-create socio-spatial-technical solutions across activity, interaction, scene, and space layers.
-- Designing for power-aware and equitable virtual spaces: Proposes principles addressing spatial cues and power geometry, positioning futuring as a method for reimagining inclusive communication infrastructures.
+- Revealing barriers in cross-group digital communication; Conducting futuring participatory design workshop for inclusive Metaverse interactions;
+- Framing designs of future Metaverse across activity, interaction, scene, and space layers; Proposing design insights for power-aware and equitable virtual spaces, positioning futuring as a method for reimagining inclusive communication infrastructures.
 </div>
 </div>
 
