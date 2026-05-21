@@ -53,7 +53,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)* -->
 - Introducing cognitive motifs to formalize user reasoning as causal, compositional, and revisable structures, reframing human–LLM alignment around user-grounded cognitive processes.
 - Implementing CogInstrument, an interaction system that extracts motifs, externalizes them as editable causal graphs, and maintains a shared reasoning space for bidirectional negotiation.
-- Showing that motif-based externalization improves reasoning articulation, reduces repair effort, and enhances user trust and agency, using a within-subject user study ($N=12$). 
+- Showing that motif-based externalization improves reasoning articulation, reduces repair effort, and enhances user trust and agency, using a within-subject study ($N=12$). 
 </div>
 </div>
 
@@ -66,7 +66,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)* -->
 - Proposing Cognitive Abstraction (CA), an intermediate layer transforming monolithic LLM outputs into manipulable, multi-dimensional design spaces to solve compositional opacity.
 - Developing NexusAI, an interface operationalizing CA via What–How–Value decomposition and multi-level operators for fine-grained component manipulation.
-- Proving that externalizing these primitives reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using within-subject studies A user study ($N=14$). 
+- Proving the NexusAI reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using a within-subject study ($N=14$). 
 </div>
 </div>
 
@@ -78,7 +78,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **[Anqi Wang](https://arrowanneee.github.io/)**, Zhengyi Li, Lan Luo, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2601.17769)
 - Proposing a LLM-based reflection scaffolding for creative coding. 
 - Developing Reflexa system, including three reflection strategies: reflective suggestions, lightweight inspiration, and non-linear version visualization.
-- Demonstrates that its effectiveness in supporting reflection, creativity, and creative outcomes. 
+- Demonstrates that its effectiveness in supporting reflection, creativity, and creative outcomes ($N=18$). 
 
 </div>
 </div>
@@ -93,7 +93,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 [ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
 - Identifing a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
 - Introducing curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
-- Studies with designers (N=20) show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
+- Studies with designers ($N=20$) show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
 </div>
 </div>
 
