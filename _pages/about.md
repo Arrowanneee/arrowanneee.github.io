@@ -44,7 +44,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 # 📑 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CogInstrument-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CogInstrument-teaser.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**
@@ -99,7 +99,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 26</div><img src='images/LGBTQ+.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 26</div><img src='images/DIS26-teaser-lgbt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Dream the Dream: Futuring Communication between Lgbtq+ and Cisgender Groups in Metaverse Space** 
@@ -129,7 +129,7 @@ Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEA 2026</div><img src='images/echoingstreams-system.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Echoing Streams: Constellating Calligraphic Ritual, Place and Data through Interactive Experience** 
