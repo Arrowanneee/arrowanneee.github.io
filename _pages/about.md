@@ -25,7 +25,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 # 🔥 News
 <!-- - 📢📢📢 Call for papers, pictorials, videos for our *Reflection in Creative Experience (RiCE) Workshop* at C&C Conference 2026 before 12 May AoE [[Website](https://riceworkshop.github.io/)]. -->
 - *2026.04*: &nbsp;🎉🎉 Our two papers, *DesignerlyLoop* and *Dream the Dream*, have been fully accepted to 🇸🇬DIS 2026. 
-- *2026.03*: &nbsp; Our *Reflection in Creative Experience (RiCE) Workshop* was accepted to 🇬🇧C&C (Creativity and Cognition) Conference 2026! 
+- *2026.03*: &nbsp; Our *Reflection in Creative Experience (RiCE) Workshop* [[Website](https://riceworkshop.github.io/)] was accepted to 🇬🇧C&C (Creativity and Cognition) Conference 2026! 
 - *2026.03*: &nbsp;I served as an AC for the DiWP track at 🇸🇬DIS 2026. 
 - *2026.02*: &nbsp;🎉🎉 *Echoing Streams* was accepted to 🇦🇪ISEA 2026!  
 - *2025.12*: &nbsp;🎉🎉 *Eye2Recall* was accepted to 🇨🇾IUI 2026!  <!-- The conference will hold in Paphos, Cyprus (a beautiful island country in the eastern Mediterranean) on March 23-26, 2026.-->
