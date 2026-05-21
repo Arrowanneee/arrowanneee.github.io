@@ -67,9 +67,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 - Proposing Cognitive Abstraction (CA), an intermediate layer transforming monolithic LLM outputs into manipulable, multi-dimensional design spaces to solve compositional opacity.
 - Developing NexusAI, an interface operationalizing CA via What–How–Value decomposition and multi-level operators for fine-grained component manipulation.
 - Proving that externalizing these primitives reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using within-subject studies A user study ($N=14$). 
-<!--- Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. 
+<!-- - Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. 
 - Developing NexusAI, an LLM-powered interface that operationalizes CA through What–How–Value decomposition, multi-level abstraction operators (L1–L4), and typed cross-dimensional recombination, enabling fine-grained manipulation of idea components beyond “whole ideas.”
-- A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows.-->
+- A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows.--!>
 </div>
 </div>
 
@@ -79,7 +79,8 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **Reflexa:  Exploring the Large Language Models as Artifacts to Elicit Reflection in Creative Coding**
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, Zhengyi Li, Lan Luo, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2601.17769)
-- Proposing a LLM-based reflection scaffolding for creative coding; Developing Reflexa system, including three reflection strategies: reflective suggestions, lightweight inspiration, and non-linear version visualization.
+- Proposing a LLM-based reflection scaffolding for creative coding. 
+- Developing Reflexa system, including three reflection strategies: reflective suggestions, lightweight inspiration, and non-linear version visualization.
 - Demonstrates that its effectiveness in supporting reflection, creativity, and creative outcomes. 
 </div>
 </div>
@@ -107,8 +108,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 [ArXiv](https://arxiv.org/abs/2603.18578) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
 
-- Revealing barriers in cross-group digital communication; Conducting futuring participatory design workshop for inclusive Metaverse interactions;
-- Framing designs of future Metaverse across activity, interaction, scene, and space layers; Proposing design insights for power-aware and equitable virtual spaces, positioning futuring as a method for reimagining inclusive communication infrastructures.
+- Conducting future design workshop for identifying cross-group communication challenges, and inclusive Metaverse interaction design. 
+- Framing designs of future Metaverse across activity, interaction, scene, and space layers. 
+- Proposing design insights for power-aware and equitable virtual spaces, positioning futuring as a method for reimagining inclusive communication infrastructures.
 </div>
 </div>
 
