@@ -235,15 +235,15 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 - *2020.09 - 2021.12*, University College London
 - *2016.09 - 2020.06*, Guangzhou Academy of Fine Arts
 
-# 💬 Invited Talks
+<--! # 💬 Invited Talks / Interviews
 - *2023.12*, Outstanding Graduates Personal Sharing, Guangzhou Academy of Fine Arts Overseas Graduate Society
 - *2022.08*, *Hyper-Learning and Unlearning – Compression: Excursions on Media Ecologies*, KoozArch  
   [Online Interview](https://www.koozarch.com/interviews/hyperlearning-and-unlearning)  
 - *2021.09*, *(De)centralizing Education: P2P Learning*, Round the Table, UCL  
-  Organised by AF Architecture, Bartlett B-Pro
+  Organised by AF Architecture, Bartlett B-Pro --!>
   
 # 💻 Internships
-- *2021.10 - 2022.09*, [City Science Lab @ Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), China.
+- *2021.10 - 2022.09*, [Tongji-MIT Meida Lab - City Science Lab @ Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), China.
 
 # 🖼 Exhibitions
 - *11-2022*, NTU Global Digital Art Prize, Singapore  
