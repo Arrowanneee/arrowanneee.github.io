@@ -50,7 +50,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, [Dongyijie Primo Pan](https://primopan.github.io/about/), [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2604.10587)
-<!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*-->
+<!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)* -->
 - Introducing cognitive motifs to formalize user reasoning as causal, compositional, and revisable structures, reframing human–LLM alignment around user-grounded cognitive processes.
 - Implementing CogInstrument, an interaction system that extracts motifs, externalizes them as editable causal graphs, and maintains a shared reasoning space for bidirectional negotiation.
 - Showing that motif-based externalization improves reasoning articulation, reduces repair effort, and enhances user trust and agency, using a within-subject user study ($N=12$). 
@@ -63,13 +63,11 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **NexusAI: Enabling Design Space Exploration of Ideas through Cognitive Abstraction and Functional Decomposition**
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, Bingqian Wang, Huiyang Chen, Keqing Jiao, Lei Han, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2604.10575)
-<!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*-->
+<!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)* -->
 - Proposing Cognitive Abstraction (CA), an intermediate layer transforming monolithic LLM outputs into manipulable, multi-dimensional design spaces to solve compositional opacity.
 - Developing NexusAI, an interface operationalizing CA via What–How–Value decomposition and multi-level operators for fine-grained component manipulation.
 - Proving that externalizing these primitives reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using within-subject studies A user study ($N=14$). 
-<!-- - Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. 
-- Developing NexusAI, an LLM-powered interface that operationalizes CA through What–How–Value decomposition, multi-level abstraction operators (L1–L4), and typed cross-dimensional recombination, enabling fine-grained manipulation of idea components beyond “whole ideas.”
-- A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows.-->
+<!-- - Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. - Developing NexusAI, an LLM-powered interface that operationalizes CA through What–How–Value decomposition, multi-level abstraction operators (L1–L4), and typed cross-dimensional recombination, enabling fine-grained manipulation of idea components beyond “whole ideas.” - A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows.-->
 </div>
 </div>
 
