@@ -23,7 +23,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 🔥 News
-- 📢📢📢 Call for papers, pictorials, videos for our *Reflection in Creative Experience (RiCE) Workshop* at C&C Conference 2026 before 12 May AoE [[Website](https://riceworkshop.github.io/)].
+<!-- - 📢📢📢 Call for papers, pictorials, videos for our *Reflection in Creative Experience (RiCE) Workshop* at C&C Conference 2026 before 12 May AoE [[Website](https://riceworkshop.github.io/)]. --!>
 - *2026.04*: &nbsp;🎉🎉 Our two papers, *DesignerlyLoop* and *Dream the Dream*, have been fully accepted to 🇸🇬DIS 2026. 
 - *2026.03*: &nbsp; Our *Reflection in Creative Experience (RiCE) Workshop* was accepted to 🇬🇧C&C (Creativity and Cognition) Conference 2026! 
 - *2026.03*: &nbsp;I served as an AC for the DiWP track at 🇸🇬DIS 2026. 
@@ -125,9 +125,7 @@ Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip
 - Deriving design considerations from expert interviews for reflective reminiscence, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. 
 - Developing Eye2Recall, a system that transforms eye gaze on photos into adaptive LLM prompts, eliciting reflective storytelling via old photos. 
 - Demonstrating improved mood, low cognitive load, and enhanced retrieval of concrete memories. 
-<!-- - Designing for reflective reminiscence: Derived design considerations from expert interviews, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. 
-- Gaze-to-prompt interaction mechanism: Developed Eye2Recall, a mixed-initiative conversational system that transforms eye gaze on photos into adaptive LLM prompts, reducing user effort while aligning with users’ attention. 
-- Empirical evidence of well-being and recall support: Pilot study with older adults shows improved mood, low interaction burden, and enhanced retrieval of concrete memories through gaze-driven reflective storytelling.--!>
+<!-- - Designing for reflective reminiscence: Derived design considerations from expert interviews, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. - Gaze-to-prompt interaction mechanism: Developed Eye2Recall, a mixed-initiative conversational system that transforms eye gaze on photos into adaptive LLM prompts, reducing user effort while aligning with users’ attention. - Empirical evidence of well-being and recall support: Pilot study with older adults shows improved mood, low interaction burden, and enhanced retrieval of concrete memories through gaze-driven reflective storytelling. --!>
 </div>
 </div>
 
