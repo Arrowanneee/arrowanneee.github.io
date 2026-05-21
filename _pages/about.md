@@ -23,7 +23,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 
 # 🔥 News
-<!-- - 📢📢📢 Call for papers, pictorials, videos for our *Reflection in Creative Experience (RiCE) Workshop* at C&C Conference 2026 before 12 May AoE [[Website](https://riceworkshop.github.io/)]. --!>
+<!-- - 📢📢📢 Call for papers, pictorials, videos for our *Reflection in Creative Experience (RiCE) Workshop* at C&C Conference 2026 before 12 May AoE [[Website](https://riceworkshop.github.io/)]. -->
 - *2026.04*: &nbsp;🎉🎉 Our two papers, *DesignerlyLoop* and *Dream the Dream*, have been fully accepted to 🇸🇬DIS 2026. 
 - *2026.03*: &nbsp; Our *Reflection in Creative Experience (RiCE) Workshop* was accepted to 🇬🇧C&C (Creativity and Cognition) Conference 2026! 
 - *2026.03*: &nbsp;I served as an AC for the DiWP track at 🇸🇬DIS 2026. 
@@ -69,7 +69,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 - Proving that externalizing these primitives reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using within-subject studies A user study ($N=14$). 
 <!-- - Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. 
 - Developing NexusAI, an LLM-powered interface that operationalizes CA through What–How–Value decomposition, multi-level abstraction operators (L1–L4), and typed cross-dimensional recombination, enabling fine-grained manipulation of idea components beyond “whole ideas.”
-- A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows.--!>
+- A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows.-->
 </div>
 </div>
 
@@ -82,6 +82,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 - Proposing a LLM-based reflection scaffolding for creative coding. 
 - Developing Reflexa system, including three reflection strategies: reflective suggestions, lightweight inspiration, and non-linear version visualization.
 - Demonstrates that its effectiveness in supporting reflection, creativity, and creative outcomes. 
+
 </div>
 </div>
 
@@ -125,7 +126,7 @@ Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip
 - Deriving design considerations from expert interviews for reflective reminiscence, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. 
 - Developing Eye2Recall, a system that transforms eye gaze on photos into adaptive LLM prompts, eliciting reflective storytelling via old photos. 
 - Demonstrating improved mood, low cognitive load, and enhanced retrieval of concrete memories. 
-<!-- - Designing for reflective reminiscence: Derived design considerations from expert interviews, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. - Gaze-to-prompt interaction mechanism: Developed Eye2Recall, a mixed-initiative conversational system that transforms eye gaze on photos into adaptive LLM prompts, reducing user effort while aligning with users’ attention. - Empirical evidence of well-being and recall support: Pilot study with older adults shows improved mood, low interaction burden, and enhanced retrieval of concrete memories through gaze-driven reflective storytelling. --!>
+<!-- - Designing for reflective reminiscence: Derived design considerations from expert interviews, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. - Gaze-to-prompt interaction mechanism: Developed Eye2Recall, a mixed-initiative conversational system that transforms eye gaze on photos into adaptive LLM prompts, reducing user effort while aligning with users’ attention. - Empirical evidence of well-being and recall support: Pilot study with older adults shows improved mood, low interaction burden, and enhanced retrieval of concrete memories through gaze-driven reflective storytelling. -->
 </div>
 </div>
 
@@ -208,7 +209,7 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 
 - **Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements**, Jiahua Dong, Ruiqing Jiang, **Anqi Wang**, Yuankai Wang, **CAADRIA 2023**
 
-<!--  - **The Bartlett B-Pro Show Book 2021**, The Bartlett School of Architecture UCL, 2021 \| [PDF](https://issuu.com/bartlettarchucl/docs/bartlett-b-pro-2021) --!>
+<!--  - **The Bartlett B-Pro Show Book 2021**, The Bartlett School of Architecture UCL, 2021 \| [PDF](https://issuu.com/bartlettarchucl/docs/bartlett-b-pro-2021) -->
 
 
 # 🌟 Honors and Awards
@@ -240,7 +241,7 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 - *2022.08*, *Hyper-Learning and Unlearning – Compression: Excursions on Media Ecologies*, KoozArch  
   [Online Interview](https://www.koozarch.com/interviews/hyperlearning-and-unlearning)  
 - *2021.09*, *(De)centralizing Education: P2P Learning*, Round the Table, UCL  
-  Organised by AF Architecture, Bartlett B-Pro --!>
+  Organised by AF Architecture, Bartlett B-Pro -->
   
 # 💻 Internships
 - *2021.10 - 2022.09*, [Tongji-MIT Meida Lab - City Science Lab @ Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), China.
