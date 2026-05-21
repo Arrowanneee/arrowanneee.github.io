@@ -67,7 +67,6 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 - Proposing Cognitive Abstraction (CA), an intermediate layer transforming monolithic LLM outputs into manipulable, multi-dimensional design spaces to solve compositional opacity.
 - Developing NexusAI, an interface operationalizing CA via What–How–Value decomposition and multi-level operators for fine-grained component manipulation.
 - Proving that externalizing these primitives reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using within-subject studies A user study ($N=14$). 
-<!-- - Proposing Cognitive Abstraction (CA) as an intermediate computational layer that transforms monolithic LLM outputs into manipulable, multi-dimensional design spaces, addressing the problem of compositional opacity in existing ideation tools. - Developing NexusAI, an LLM-powered interface that operationalizes CA through What–How–Value decomposition, multi-level abstraction operators (L1–L4), and typed cross-dimensional recombination, enabling fine-grained manipulation of idea components beyond “whole ideas.” - A within-subject study (𝑁=14) demonstrates that externalizing these primitives reduces cognitive load, mitigates design fixation, and supports multi-directional exploration, while preserving the cognitive benefits of expert-level synthesis in AI-assisted workflows.-->
 </div>
 </div>
 
@@ -92,9 +91,9 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
 
 [ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
-- Reframing human–LLM misalignment in design process: Identifies a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
-- Curated reasoning as an interaction paradigm: Introduces curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
-- Empirical evidence: Studies with designers (N=20) show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
+- Identifing a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
+- Introducing curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
+- Studies with designers (N=20) show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators.
 </div>
 </div>
 
