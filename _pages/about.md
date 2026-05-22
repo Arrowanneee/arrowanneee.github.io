@@ -73,7 +73,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Reflexa-teaserfig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Reflexa:  Exploring the Large Language Models as Artifacts to Elicit Reflection in Creative Coding**
+**Reflexa: Uncovering How LLM-Supported Reflection Scaffolding Reshapes Creativity in Creative Coding**
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, Zhengyi Li, Lan Luo, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2601.17769)
 - Proposing a LLM-based reflection scaffolding for creative coding. 
