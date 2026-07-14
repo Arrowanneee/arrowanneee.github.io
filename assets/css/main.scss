@@ -57,8 +57,8 @@
         width: 100%;
         order: 2;
         img {
-            mmax-width: 100%;   // 改成 100%,让图片跟随容器宽度
-            box-shadow: 3px 3px 6px #888;
+            max-width: 100%;   // 改成 100%,让图片跟随容器宽度
+            box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15); //图片阴影
             object-fit: cover;
         }
     }
