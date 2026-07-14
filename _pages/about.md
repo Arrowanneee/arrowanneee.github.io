@@ -110,7 +110,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 [ArXiv](https://arxiv.org/abs/2603.18578) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026
 
 - Conducting future design workshop for identifying cross-group communication challenges, and inclusive Metaverse interaction design. 
-- Framing designs of future Metaverse across activity, interaction, scene, and space layers. 
+<!-- - Framing designs of future Metaverse across activity, interaction, scene, and space layers. -->
 <!-- - Proposing design insights for power-aware and equitable virtual spaces, positioning futuring as a method for reimagining inclusive communication infrastructures. -->
 </div>
 </div>
