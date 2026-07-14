@@ -51,8 +51,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, [Dongyijie Primo Pan](https://primopan.github.io/about/), [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2604.10587)
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)* -->
-- Introducing cognitive motifs to formalize user reasoning as causal, compositional, and revisable structures, reframing human–LLM alignment around user-grounded cognitive processes.
-- Implementing it and evaluating via user studies.
+Introducing cognitive motifs to formalize user reasoning as causal, compositional, and revisable structures, reframing human–LLM alignment around user-grounded cognitive processes; implementing it and evaluating via user studies.
 <!-- - Implementing CogInstrument, an interaction system that extracts motifs, externalizes them as editable causal graphs, and maintains a shared reasoning space for bidirectional negotiation. --> 
 <!-- - Showing that motif-based externalization improves reasoning articulation, reduces repair effort, and enhances user trust and agency, using a within-subject study ($N=12$). --> 
 </div>
@@ -65,8 +64,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 **[Anqi Wang](https://arrowanneee.github.io/)**, Bingqian Wang, Huiyang Chen, Keqing Jiao, Lei Han, [Xin Tong](https://cma.hkust-gz.edu.cn/faculty-regular/tong-xin/), [Pan Hui](https://panhui.people.ust.hk/) | [ArXiv](https://arxiv.org/abs/2604.10575)
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)* -->
-- Proposing Cognitive Abstraction (CA), an intermediate layer transforming monolithic LLM outputs into manipulable, multi-dimensional design spaces to solve compositional opacity.
-- Implementing it and evaluating via user studies.
+Proposing Cognitive Abstraction (CA), an intermediate layer transforming monolithic LLM outputs into manipulable, multi-dimensional design spaces to solve compositional opacity; implementing it and evaluating via user studies.
 <!-- - Developing NexusAI, an interface operationalizing CA via What–How–Value decomposition and multi-level operators for fine-grained component manipulation. -->
 <!-- - Proving the NexusAI reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using a within-subject study ($N=14$).  -->
 </div>
@@ -197,19 +195,19 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 </div>
 </div>
 
-- Envisioning A Hyper-Learning System in the Age of Metaverse, **Anqi Wang**, Ze Gao, Tristan Braud, Pan Hui, **SIGGRAPH VRCAI 2022**
+- Envisioning A Hyper-Learning System in the Age of Metaverse, **A. Wang**, Z. Gao, T. Braud, P. Hui, SIGGRAPH VRCAI 2022
 
-- Interspaces Between Nature and the City, Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan \| [PDF](https://dl.acm.org/doi/pdf/10.1145/3565698.3587395) \| **Chinese CHI 2022** 
+- Interspaces Between Nature and the City, Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan \| [PDF](https://dl.acm.org/doi/pdf/10.1145/3565698.3587395) \| Chinese CHI 2022 
 
-- Meditation in Motion: Interactive Media Art Visualization Based on Ancient Tai Chi Chuan, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **ACM Multimedia 2022**
+- Meditation in Motion: Interactive Media Art Visualization Based on Ancient Tai Chi Chuan, Z. Gao, **Anqi Wang**, P. Hui, T. Braud, ACM Multimedia 2022
 
-- Digital Art in the Age of Metaverse and NFT**, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **Computer Art Congress 7 (CAC.7)**
+- Digital Art in the Age of Metaverse and NFT, Z. Gao, **A. Wang**, P. Hui, T. Braud, Computer Art Congress 7 (CAC.7)
 
-- VR PreM+: An Immersive Pre-learning Branching Visualization System for Museum Tours, Ze Gao, Xiang Li, Changkun Liu, Xian Wang, **Anqi Wang**, Liang Yang, Yuyang Wang, Pan Hui, Tristan Braud, **Chinese CHI 2023**
+- VR PreM+: An Immersive Pre-learning Branching Visualization System for Museum Tours, Z. Gao, X. Li, C. Liu, X. Wang, **Anqi Wang**, L. Yang, Y. Wang, P. Hui, T. Braud, Chinese CHI 2023
 
-- Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Tool, Ze Gao*, **Anqi Wang***, Pan Hui, Tristan Braud, **SIGGRAPH VRCAI 2022** (*Co-first authors*)
+- Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Tool, Z. Gao*, **A. Wang***, P. Hui, T. Braud, SIGGRAPH VRCAI 2022 (*Co-first authors*)
 
-- Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements, Jiahua Dong, Ruiqing Jiang, **Anqi Wang**, Yuankai Wang, **CAADRIA 2023**
+- Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements, J. Dong, R. Jiang, **A. Wang**, Y. Wang, CAADRIA 2023
 
 <!--  - **The Bartlett B-Pro Show Book 2021**, The Bartlett School of Architecture UCL, 2021 \| [PDF](https://issuu.com/bartlettarchucl/docs/bartlett-b-pro-2021) -->
 
