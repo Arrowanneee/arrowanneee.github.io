@@ -92,7 +92,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 **Anqi Wang**, Zhengyi Li, Xin Tong, Pan Hui
 
-[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
+[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026
 - Identifing a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
 - Introducing curated reasoning and validing it in user studies. 
 <!-- - Introducing curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. -->
@@ -107,7 +107,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 **Anqi Wang**, Lei Han, Jiahua Dong, Muzhi Zhou, David Yip, Yuyang Wang, Pan Hui
 
-[ArXiv](https://arxiv.org/abs/2603.18578) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
+[ArXiv](https://arxiv.org/abs/2603.18578) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026
 
 - Conducting future design workshop for identifying cross-group communication challenges, and inclusive Metaverse interaction design. 
 - Framing designs of future Metaverse across activity, interaction, scene, and space layers. 
@@ -122,7 +122,7 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 
 Han Lei, Mingnan Wei, Qiongyan Chen, **Anqi Wang**, Rong Pang, David Yip 
 
-[PDF](https://dl.acm.org/doi/abs/10.1145/3742413.3789085) \| [ArXiv](https://arxiv.org/abs/2508.02232) \| **Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026)**, March, 2026, Paphos, Cyprus *(Date of acceptance: 12 December 2025)*
+[PDF](https://dl.acm.org/doi/abs/10.1145/3742413.3789085) \| [ArXiv](https://arxiv.org/abs/2508.02232) \| **Proceedings of the 2026 ACM Conference on Intelligent User Interfaces (IUI 2026)**, July, 2026, Paphos, Cyprus
 <!-- - Deriving design considerations from expert interviews for reflective reminiscence, focusing on accessibility, cultural sensitivity, and emotionally safe engagement for older adults. -->
 - Developing Eye2Recall, a system that transforms eye gaze on photos into adaptive LLM prompts, eliciting reflective storytelling via old photos. 
 - Demonstrating improved mood, low cognitive load, and enhanced retrieval of concrete memories. 
