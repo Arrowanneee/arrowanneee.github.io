@@ -53,8 +53,8 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)* -->
 - Introducing cognitive motifs to formalize user reasoning as causal, compositional, and revisable structures, reframing human–LLM alignment around user-grounded cognitive processes.
 - Implementing it and evaluating via user studies.
-<!-- - Implementing CogInstrument, an interaction system that extracts motifs, externalizes them as editable causal graphs, and maintains a shared reasoning space for bidirectional negotiation.
-- Showing that motif-based externalization improves reasoning articulation, reduces repair effort, and enhances user trust and agency, using a within-subject study ($N=12$). --> 
+<!-- - Implementing CogInstrument, an interaction system that extracts motifs, externalizes them as editable causal graphs, and maintains a shared reasoning space for bidirectional negotiation. --> 
+<!-- - Showing that motif-based externalization improves reasoning articulation, reduces repair effort, and enhances user trust and agency, using a within-subject study ($N=12$). --> 
 </div>
 </div>
 
@@ -67,8 +67,8 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 <!--[ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)* -->
 - Proposing Cognitive Abstraction (CA), an intermediate layer transforming monolithic LLM outputs into manipulable, multi-dimensional design spaces to solve compositional opacity.
 - Implementing it and evaluating via user studies.
-<!-- - Developing NexusAI, an interface operationalizing CA via What–How–Value decomposition and multi-level operators for fine-grained component manipulation.
-- Proving the NexusAI reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using a within-subject study ($N=14$).  -->
+<!-- - Developing NexusAI, an interface operationalizing CA via What–How–Value decomposition and multi-level operators for fine-grained component manipulation. -->
+<!-- - Proving the NexusAI reduces cognitive load, mitigates design fixation, and enhances multi-directional exploration, using a within-subject study ($N=14$).  -->
 </div>
 </div>
 
@@ -95,8 +95,8 @@ My research focuses on AI-supported creativity and human-AI collaboration, alway
 [ArXiv](https://arxiv.org/pdf/2511.15331) \| **Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS'26)**, Singapore, June 2026 *(Date of conditional acceptance: 18 Mar 2026)*
 - Identifing a core gap between iterative intent formulation in design and LLMs’ assumption of complete inputs, limiting exploratory reasoning.
 - Introducing curated reasoning and validing it in user studies. 
-<!-- - Introducing curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. 
-- Studies with designers ($N=20$) show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators. -->
+<!-- - Introducing curated reasoning, enabling designers to inspect, reorganize, and selectively regenerate LLM reasoning via a two-layer structure separating intent and model reasoning. -->
+<!-- - Studies with designers ($N=20$) show that curated reasoning enhances creative exploration and output quality, repositioning LLMs as structured reasoning partners rather than generators. -->
 </div>
 </div>
 
@@ -139,8 +139,8 @@ Lei Han, **Anqi Wang**, Ziqi Lin, David Yip
 
 **International Symposium on Electronic / Emerging Art (ISEA 2026)**, Dubai, United Arab Emirates *(Date of acceptance: 27 Feb 2026)* 
 - Reimagining cultural ritual through interactive systems: Translates Qu Shui Liu Shang and calligraphy tracing into a multisensory, data-driven installation that bridges historical practice and contemporary interaction. 
-<!-- - Integrating embodied interaction with generative media: Combines remote-sensed terrain, real-time handwriting capture, and algorithmic audiovisual feedback to create a shared, participatory calligraphy environment.
-- Exploring identity through collective and mediated practice: Preliminary study shows high fluency and aesthetic engagement, highlighting how technologically mediated participation supports cultural learning and identity construction. -->
+<!-- - Integrating embodied interaction with generative media: Combines remote-sensed terrain, real-time handwriting capture, and algorithmic audiovisual feedback to create a shared, participatory calligraphy environment. -->
+<!-- - Exploring identity through collective and mediated practice: Preliminary study shows high fluency and aesthetic engagement, highlighting how technologically mediated participation supports cultural learning and identity construction. -->
 </div>
 </div>
 
@@ -154,9 +154,9 @@ Lei Han, **Anqi Wang**, Ziqi Lin, David Yip
 [PDF](https://dl.acm.org/doi/10.1145/3715070.3749234) \| [ArXiv](https://arxiv.org/abs/2402.09750) \| **Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW '25)**, Bergen, Norway, October 2025  *(Date of acceptance: 19 June 2025)*
 - Investigating how creative practiciors interacte with LLM in creative coding;
 - Demonstrating task-decomposed prompting strategies fosters deeper, more strategic reflection
-<!-- - demonstrate how Baumer’s reflection typology applies and adapts in the context of LLM-based creative coding; 
-- We conduct an empirical evidence showing how task-decomposed prompting fosters deeper, more strategic reflection; 
-- We propose design implications for rethinking reflective prompting beyond productivity scaffolding, but as a catalyst for creative reasoning and adaptive goal-setting. -->
+<!-- - demonstrate how Baumer’s reflection typology applies and adapts in the context of LLM-based creative coding; -->
+<!-- - We conduct an empirical evidence showing how task-decomposed prompting fosters deeper, more strategic reflection; -->
+<!-- - We propose design implications for rethinking reflective prompting beyond productivity scaffolding, but as a catalyst for creative reasoning and adaptive goal-setting. -->
 </div>
 </div>
 
