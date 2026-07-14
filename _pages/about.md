@@ -197,19 +197,19 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 </div>
 </div>
 
-- **Envisioning A Hyper-Learning System in the Age of Metaverse**, **Anqi Wang**, Ze Gao, Tristan Braud, Pan Hui, **SIGGRAPH VRCAI 2022**
+- Envisioning A Hyper-Learning System in the Age of Metaverse, **Anqi Wang**, Ze Gao, Tristan Braud, Pan Hui, **SIGGRAPH VRCAI 2022**
 
-- **Interspaces Between Nature and the City**, Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan \| [PDF](https://dl.acm.org/doi/pdf/10.1145/3565698.3587395) \| **Chinese CHI 2022** 
+- Interspaces Between Nature and the City, Z. Bai, Y. Wang, J. Guo, **A. Wang**, H. Yue, Z. Gao, ... L. Tan \| [PDF](https://dl.acm.org/doi/pdf/10.1145/3565698.3587395) \| **Chinese CHI 2022** 
 
-- **Meditation in Motion: Interactive Media Art Visualization Based on Ancient Tai Chi Chuan**, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **ACM Multimedia 2022**
+- Meditation in Motion: Interactive Media Art Visualization Based on Ancient Tai Chi Chuan, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **ACM Multimedia 2022**
 
-- **Digital Art in the Age of Metaverse and NFT**, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **Computer Art Congress 7 (CAC.7)**
+- Digital Art in the Age of Metaverse and NFT**, Ze Gao, **Anqi Wang**, Pan Hui, Tristan Braud, **Computer Art Congress 7 (CAC.7)**
 
-- **VR PreM+: An Immersive Pre-learning Branching Visualization System for Museum Tours**, Ze Gao, Xiang Li, Changkun Liu, Xian Wang, **Anqi Wang**, Liang Yang, Yuyang Wang, Pan Hui, Tristan Braud, **Chinese CHI 2023**
+- VR PreM+: An Immersive Pre-learning Branching Visualization System for Museum Tours, Ze Gao, Xiang Li, Changkun Liu, Xian Wang, **Anqi Wang**, Liang Yang, Yuyang Wang, Pan Hui, Tristan Braud, **Chinese CHI 2023**
 
-- **Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Too**l, Ze Gao*, **Anqi Wang***, Pan Hui, Tristan Braud, **SIGGRAPH VRCAI 2022** (*Co-first authors*)
+- Bridging Curatorial Intent and Visiting Experience: Using AR Guidance as a Storytelling Tool, Ze Gao*, **Anqi Wang***, Pan Hui, Tristan Braud, **SIGGRAPH VRCAI 2022** (*Co-first authors*)
 
-- **Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements**, Jiahua Dong, Ruiqing Jiang, **Anqi Wang**, Yuankai Wang, **CAADRIA 2023**
+- Urban Cultural Inheritance: GANs Assisted Street Facade Design in VR Based on Hakka Settlements, Jiahua Dong, Ruiqing Jiang, **Anqi Wang**, Yuankai Wang, **CAADRIA 2023**
 
 <!--  - **The Bartlett B-Pro Show Book 2021**, The Bartlett School of Architecture UCL, 2021 \| [PDF](https://issuu.com/bartlettarchucl/docs/bartlett-b-pro-2021) -->
 
