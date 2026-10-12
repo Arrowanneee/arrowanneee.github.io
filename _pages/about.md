@@ -17,21 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Human-Computer Interaction (HCI) field across LLM, design, and the Metaverse at the Hong Kong University of Science and Technology, under the supervision of professor [Pan Hui](https://panhui.people.ust.hk/publications.html) and [David Yip](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YIP-DavidKeiMan/daveyip). 
+I am a Ph.D. candidate in Human-Computer Interaction (HCI) field across AI, cognition, and design, at the Hong Kong University of Science and Technology, under the supervision of professor [Pan Hui](https://panhui.people.ust.hk/publications.html) and [David Yip](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YIP-DavidKeiMan/daveyip). 
 
-My research focuses on AI-supported creativity and human-AI collaboration, always inspired by my interdisciplinary design background. I investigates how emerging AI can augment human cognition and capability, especially in creative domains. My research work has published in venues such as ACM CSUR/CSCW/MM/IUI/ICMI. My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). My research experience are as follows:
+My research focuses on AI-supported creativity and human-AI collaboration, always inspired by my interdisciplinary design background. I investigates how emerging AI can augment human cognition and capability, especially in creative domains. My research work has published in venues such as ACM CSUR/CSCW/MM/IUI/ICMI. <!-- My art and design work has been featured in exhibitions such as Chinese CHI, the NTU Art Exhibition, the Johan Verbeke International Exhibition. -->
+I currently work in Hong Kong and Guangzhou ([MC2 lab](https://mc2-lab-hkust.netlify.app/)). My research experience are as follows:
 
-**AI-Assisted Creative Systems & Human–AI Collaboration** | 2025-2026 | Designing LLM-powered systems for complex cognitive tasks, including design space exploration, externalizing structured reasoning, and achieving bidirectional alignment. These systems empower users to externalize ideas and manage cognitive workflows effectively. 
+**AI-Assisted Creative Systems & Human–AI Collaboration** | 2025-2026 | Designing AI-based interactive systems for complex cognitive tasks, including design space exploration, externalizing structured reasoning, and achieving bidirectional alignment. These systems empower users to externalize ideas and manage cognitive workflows effectively. 
 - Reflection Scaffolding & Creativity Support Tools – LLM-based systems that support reflection scaffolding for creative coding tasks [Reflexa](https://arxiv.org/abs/2601.17769) (under review), and facilitate structured design space exploration [NexusAI](https://arxiv.org/abs/2604.10575) (under review) to close the human-AI cognitive gap. 
 - Bidirectional Human-LLM Alignment – Interactive systems that support iterative design intent formation [DesignerlyLoop](https://dl.acm.org/doi/10.1145/3800645.3812885) [[📹demo video](https://www.youtube.com/watch?v=0TRvvJnLXmo)] and model dynamic cognitive processes [CogInstrument](https://arxiv.org/abs/2604.10587) (under review) to align human control with LLM capabilities. 
 
-**Investigations into AI-Powered Creative Practices** | 2023-2025 | Conducting literature synthesis and empirical investigations to delineate how AI-driven techniques can support creative practices and workflows, providing insights for future HCI design spaces. 
+<!-- **Investigations into AI-Powered Creative Practices** | 2023-2025 | Conducting literature synthesis and empirical investigations to delineate how AI-driven techniques can support creative practices and workflows, providing insights for future HCI design spaces. 
 - Human-AI Co-Creation – An empirical study with creative practitioners to investigate how AI elicits [reflective thinking](https://arxiv.org/abs/2601.17769) (Poster) during human–LLM co-creation. 
-- AI-assisted Design – Comprehensive taxonomy and state-of-the-art survey of deep learning approaches for virtual space and architectural generation [Towards AI-Architecture Liberty](https://dl.acm.org/doi/full/10.1145/3688569). 
+- AI-assisted Design – Comprehensive taxonomy and state-of-the-art survey of deep learning approaches for virtual space and architectural generation [Towards AI-Architecture Liberty](https://dl.acm.org/doi/full/10.1145/3688569). -->
 
-**Multimodal Interfaces & Inclusive Design** | 2022-2024 | Studying user interaction patterns and optimizing collaboration with intelligent systems. 
+<!-- **Multimodal Interfaces & Inclusive Design** | 2022-2024 | Studying user interaction patterns and optimizing collaboration with intelligent systems. 
 - Multimodal Workflows & Interfaces – Intuitive and multimodal approaches for humans to interact with AI/LLM-powered interfaces [[Eye2Recall](https://dl.acm.org/doi/abs/10.1145/3742413.3789085), [Decentralized, not Dehumanized](https://dl.acm.org/doi/pdf/10.1145/3536221.3558176) (Blue Sky)]. 
-- Inclusive Interaction Frameworks – Future design workshops to formalize interaction frameworks that foster social inclusion within metaverse environments [Dream the Dream](https://dl.acm.org/doi/10.1145/3800645.3812884). 
+- Inclusive Interaction Frameworks – Future design workshops to formalize interaction frameworks that foster social inclusion within metaverse environments [Dream the Dream](https://dl.acm.org/doi/10.1145/3800645.3812884). -->
 
 
 # 🔥 News
