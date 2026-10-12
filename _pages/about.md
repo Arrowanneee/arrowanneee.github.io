@@ -250,7 +250,7 @@ Tiancheng Liu, **Anqi Wang**, Xinda Chen, Jing Yan, Yan Li, Pan Hui, Kang Zhang
 - *2016.09 - 2020.06*, Guangzhou Academy of Fine Arts
   
 # 💻 Internships
-- *2021.10 - 2022.09*, [Tongji-MIT Meida Lab - City Science Lab @ Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), China.
+- *2021.10 - 2022.09*, [Tongji-MIT Media Lab - City Science Lab @ Shanghai](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/), China.
 
 # 🖼 Exhibitions
 - *11-2022*, NTU Global Digital Art Prize, Singapore  
